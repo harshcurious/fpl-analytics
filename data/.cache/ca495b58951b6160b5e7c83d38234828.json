@@ -1,0 +1,1940 @@
+{
+  "_dataframe_": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "Gameweek 1",
+      "deadline_time": "2025-08-15T17:30:00Z",
+      "release_time": null,
+      "average_entry_score": 54,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 3772644.0,
+      "deadline_time_epoch": 1755279000,
+      "deadline_time_game_offset": 0,
+      "highest_score": 127.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 9469118,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 342779
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 272642
+        }
+      ],
+      "most_selected": 235.0,
+      "most_transferred_in": 1.0,
+      "top_element": 531.0,
+      "top_element_info": {
+        "id": 531,
+        "points": 17
+      },
+      "transfers_made": 0,
+      "most_captained": 381.0,
+      "most_vice_captained": 235.0,
+      "is_prev": false
+    },
+    {
+      "id": 2,
+      "name": "Gameweek 2",
+      "deadline_time": "2025-08-22T17:30:00Z",
+      "release_time": null,
+      "average_entry_score": 51,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 2963810.0,
+      "deadline_time_epoch": 1755883800,
+      "deadline_time_game_offset": 0,
+      "highest_score": 140.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 10752422,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 206501
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 159592
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 433085
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 267066
+        }
+      ],
+      "most_selected": 235.0,
+      "most_transferred_in": 427.0,
+      "top_element": 8.0,
+      "top_element_info": {
+        "id": 8,
+        "points": 24
+      },
+      "transfers_made": 18178809,
+      "most_captained": 381.0,
+      "most_vice_captained": 235.0,
+      "is_prev": false
+    },
+    {
+      "id": 3,
+      "name": "Gameweek 3",
+      "deadline_time": "2025-08-30T10:00:00Z",
+      "release_time": null,
+      "average_entry_score": 48,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 4374360.0,
+      "deadline_time_epoch": 1756548000,
+      "deadline_time_game_offset": 0,
+      "highest_score": 118.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 11304791,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 181694
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 392607
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 714353
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 327492
+        }
+      ],
+      "most_selected": 249.0,
+      "most_transferred_in": 82.0,
+      "top_element": 260.0,
+      "top_element_info": {
+        "id": 260,
+        "points": 15
+      },
+      "transfers_made": 27802596,
+      "most_captained": 430.0,
+      "most_vice_captained": 381.0,
+      "is_prev": false
+    },
+    {
+      "id": 4,
+      "name": "Gameweek 4",
+      "deadline_time": "2025-09-13T10:00:00Z",
+      "release_time": null,
+      "average_entry_score": 63,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 7997042.0,
+      "deadline_time_epoch": 1757757600,
+      "deadline_time_game_offset": 0,
+      "highest_score": 139.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 11641518,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 151177
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 245615
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 936058
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 265597
+        }
+      ],
+      "most_selected": 249.0,
+      "most_transferred_in": 419.0,
+      "top_element": 26.0,
+      "top_element_info": {
+        "id": 26,
+        "points": 16
+      },
+      "transfers_made": 27408255,
+      "most_captained": 381.0,
+      "most_vice_captained": 249.0,
+      "is_prev": false
+    },
+    {
+      "id": 5,
+      "name": "Gameweek 5",
+      "deadline_time": "2025-09-20T10:00:00Z",
+      "release_time": null,
+      "average_entry_score": 42,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 9985225.0,
+      "deadline_time_epoch": 1758362400,
+      "deadline_time_game_offset": 0,
+      "highest_score": 112.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 11803614,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 231274
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 140350
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 465965
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 121906
+        }
+      ],
+      "most_selected": 249.0,
+      "most_transferred_in": 82.0,
+      "top_element": 660.0,
+      "top_element_info": {
+        "id": 660,
+        "points": 15
+      },
+      "transfers_made": 16533109,
+      "most_captained": 381.0,
+      "most_vice_captained": 249.0,
+      "is_prev": false
+    },
+    {
+      "id": 6,
+      "name": "Gameweek 6",
+      "deadline_time": "2025-09-27T10:00:00Z",
+      "release_time": null,
+      "average_entry_score": 46,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 11887643.0,
+      "deadline_time_epoch": 1758967200,
+      "deadline_time_game_offset": 0,
+      "highest_score": 124.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 11930431,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 157915
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 178069
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 750713
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 812259
+        }
+      ],
+      "most_selected": 249.0,
+      "most_transferred_in": 430.0,
+      "top_element": 683.0,
+      "top_element_info": {
+        "id": 683,
+        "points": 17
+      },
+      "transfers_made": 22147208,
+      "most_captained": 430.0,
+      "most_vice_captained": 249.0,
+      "is_prev": false
+    },
+    {
+      "id": 7,
+      "name": "Gameweek 7",
+      "deadline_time": "2025-10-03T17:30:00Z",
+      "release_time": null,
+      "average_entry_score": 60,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 5563383.0,
+      "deadline_time_epoch": 1759512600,
+      "deadline_time_game_offset": 0,
+      "highest_score": 135.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12032746,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 170965
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 130694
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 475622
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 187661
+        }
+      ],
+      "most_selected": 249.0,
+      "most_transferred_in": 430.0,
+      "top_element": 82.0,
+      "top_element_info": {
+        "id": 82,
+        "points": 18
+      },
+      "transfers_made": 16350776,
+      "most_captained": 430.0,
+      "most_vice_captained": 381.0,
+      "is_prev": false
+    },
+    {
+      "id": 8,
+      "name": "Gameweek 8",
+      "deadline_time": "2025-10-18T10:00:00Z",
+      "release_time": null,
+      "average_entry_score": 56,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 7646584.0,
+      "deadline_time_epoch": 1760781600,
+      "deadline_time_game_offset": 0,
+      "highest_score": 138.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12155114,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 289156
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 99534
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 409816
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 217287
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 714.0,
+      "top_element": 225.0,
+      "top_element_info": {
+        "id": 225,
+        "points": 18
+      },
+      "transfers_made": 16106510,
+      "most_captained": 430.0,
+      "most_vice_captained": 82.0,
+      "is_prev": false
+    },
+    {
+      "id": 9,
+      "name": "Gameweek 9",
+      "deadline_time": "2025-10-24T17:30:00Z",
+      "release_time": null,
+      "average_entry_score": 46,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 956028.0,
+      "deadline_time_epoch": 1761327000,
+      "deadline_time_game_offset": 0,
+      "highest_score": 124.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12213493,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 229184
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 81276
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 236682
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 104043
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 714.0,
+      "top_element": 575.0,
+      "top_element_info": {
+        "id": 575,
+        "points": 23
+      },
+      "transfers_made": 12369350,
+      "most_captained": 430.0,
+      "most_vice_captained": 82.0,
+      "is_prev": false
+    },
+    {
+      "id": 10,
+      "name": "Gameweek 10",
+      "deadline_time": "2025-11-01T13:30:00Z",
+      "release_time": null,
+      "average_entry_score": 65,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 6474767.0,
+      "deadline_time_epoch": 1762003800,
+      "deadline_time_game_offset": 0,
+      "highest_score": 135.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12281789,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 185060
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 140256
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 209733
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 138936
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 119.0,
+      "top_element": 169.0,
+      "top_element_info": {
+        "id": 169,
+        "points": 16
+      },
+      "transfers_made": 14380415,
+      "most_captained": 430.0,
+      "most_vice_captained": 82.0,
+      "is_prev": false
+    },
+    {
+      "id": 11,
+      "name": "Gameweek 11",
+      "deadline_time": "2025-11-08T11:00:00Z",
+      "release_time": null,
+      "average_entry_score": 38,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 12376400.0,
+      "deadline_time_epoch": 1762599600,
+      "deadline_time_game_offset": 0,
+      "highest_score": 120.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12338890,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 283693
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 118562
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 113723
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 79701
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 283.0,
+      "top_element": 228.0,
+      "top_element_info": {
+        "id": 228,
+        "points": 15
+      },
+      "transfers_made": 10882725,
+      "most_captained": 430.0,
+      "most_vice_captained": 82.0,
+      "is_prev": false
+    },
+    {
+      "id": 12,
+      "name": "Gameweek 12",
+      "deadline_time": "2025-11-22T11:00:00Z",
+      "release_time": null,
+      "average_entry_score": 39,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 480852.0,
+      "deadline_time_epoch": 1763809200,
+      "deadline_time_game_offset": 0,
+      "highest_score": 134.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12405243,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 117635
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 231508
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 189247
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 92598
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 119.0,
+      "top_element": 266.0,
+      "top_element_info": {
+        "id": 266,
+        "points": 20
+      },
+      "transfers_made": 13914718,
+      "most_captained": 430.0,
+      "most_vice_captained": 430.0,
+      "is_prev": false
+    },
+    {
+      "id": 13,
+      "name": "Gameweek 13",
+      "deadline_time": "2025-11-29T13:30:00Z",
+      "release_time": null,
+      "average_entry_score": 35,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 12500352.0,
+      "deadline_time_epoch": 1764423000,
+      "deadline_time_game_offset": 0,
+      "highest_score": 123.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12444059,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 127302
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 516595
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 125267
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 1202761
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 136.0,
+      "top_element": 684.0,
+      "top_element_info": {
+        "id": 684,
+        "points": 16
+      },
+      "transfers_made": 16415537,
+      "most_captained": 430.0,
+      "most_vice_captained": 381.0,
+      "is_prev": false
+    },
+    {
+      "id": 14,
+      "name": "Gameweek 14",
+      "deadline_time": "2025-12-02T18:00:00Z",
+      "release_time": null,
+      "average_entry_score": 58,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 9285305.0,
+      "deadline_time_epoch": 1764698400,
+      "deadline_time_game_offset": 0,
+      "highest_score": 138.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12472152,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 161130
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 143488
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 98897
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 132909
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 136.0,
+      "top_element": 414.0,
+      "top_element_info": {
+        "id": 414,
+        "points": 17
+      },
+      "transfers_made": 9442288,
+      "most_captained": 430.0,
+      "most_vice_captained": 430.0,
+      "is_prev": false
+    },
+    {
+      "id": 15,
+      "name": "Gameweek 15",
+      "deadline_time": "2025-12-06T11:00:00Z",
+      "release_time": null,
+      "average_entry_score": 49,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 6050277.0,
+      "deadline_time_epoch": 1765018800,
+      "deadline_time_game_offset": 0,
+      "highest_score": 133.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12502403,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 214358
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 200662
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 99905
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 222544
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 414.0,
+      "top_element": 449.0,
+      "top_element_info": {
+        "id": 449,
+        "points": 18
+      },
+      "transfers_made": 11765293,
+      "most_captained": 430.0,
+      "most_vice_captained": 1.0,
+      "is_prev": false
+    },
+    {
+      "id": 16,
+      "name": "Gameweek 16",
+      "deadline_time": "2025-12-13T13:30:00Z",
+      "release_time": null,
+      "average_entry_score": 60,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 3781937.0,
+      "deadline_time_epoch": 1765632600,
+      "deadline_time_game_offset": 0,
+      "highest_score": 149.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12544438,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 477343
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 246031
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 97647
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 206393
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 414.0,
+      "top_element": 516.0,
+      "top_element_info": {
+        "id": 516,
+        "points": 19
+      },
+      "transfers_made": 24497356,
+      "most_captained": 430.0,
+      "most_vice_captained": 430.0,
+      "is_prev": false
+    },
+    {
+      "id": 17,
+      "name": "Gameweek 17",
+      "deadline_time": "2025-12-20T11:00:00Z",
+      "release_time": null,
+      "average_entry_score": 66,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 6887913.0,
+      "deadline_time_epoch": 1766228400,
+      "deadline_time_game_offset": 0,
+      "highest_score": 148.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12584041,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 378292
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 243505
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 150531
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 989479
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 329.0,
+      "top_element": 107.0,
+      "top_element_info": {
+        "id": 107,
+        "points": 21
+      },
+      "transfers_made": 16356600,
+      "most_captained": 430.0,
+      "most_vice_captained": 414.0,
+      "is_prev": false
+    },
+    {
+      "id": 18,
+      "name": "Gameweek 18",
+      "deadline_time": "2025-12-26T18:30:00Z",
+      "release_time": null,
+      "average_entry_score": 44,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 3080196.0,
+      "deadline_time_epoch": 1766773800,
+      "deadline_time_game_offset": 0,
+      "highest_score": 118.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12620812,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 592927
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 498912
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 219334
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 479352
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 661.0,
+      "top_element": 120.0,
+      "top_element_info": {
+        "id": 120,
+        "points": 20
+      },
+      "transfers_made": 16835174,
+      "most_captained": 430.0,
+      "most_vice_captained": 414.0,
+      "is_prev": false
+    },
+    {
+      "id": 19,
+      "name": "Gameweek 19",
+      "deadline_time": "2025-12-30T18:00:00Z",
+      "release_time": null,
+      "average_entry_score": 40,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 6796894.0,
+      "deadline_time_epoch": 1767117600,
+      "deadline_time_game_offset": 0,
+      "highest_score": 112.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12646658,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 631090
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 559609
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 226700
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 323388
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 450.0,
+      "top_element": 303.0,
+      "top_element_info": {
+        "id": 303,
+        "points": 16
+      },
+      "transfers_made": 15084299,
+      "most_captained": 430.0,
+      "most_vice_captained": 430.0,
+      "is_prev": false
+    },
+    {
+      "id": 20,
+      "name": "Gameweek 20",
+      "deadline_time": "2026-01-03T11:00:00Z",
+      "release_time": null,
+      "average_entry_score": 42,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 7324049.0,
+      "deadline_time_epoch": 1767438000,
+      "deadline_time_game_offset": 0,
+      "highest_score": 117.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12668861,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 83247
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 88528
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 245930
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 66719
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 5.0,
+      "top_element": 136.0,
+      "top_element_info": {
+        "id": 136,
+        "points": 17
+      },
+      "transfers_made": 10282852,
+      "most_captained": 430.0,
+      "most_vice_captained": 661.0,
+      "is_prev": false
+    },
+    {
+      "id": 21,
+      "name": "Gameweek 21",
+      "deadline_time": "2026-01-06T18:30:00Z",
+      "release_time": null,
+      "average_entry_score": 48,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 1967626.0,
+      "deadline_time_epoch": 1767724200,
+      "deadline_time_game_offset": 0,
+      "highest_score": 118.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12691406,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 119453
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 88007
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 225660
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 98740
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 5.0,
+      "top_element": 487.0,
+      "top_element_info": {
+        "id": 487,
+        "points": 15
+      },
+      "transfers_made": 10609899,
+      "most_captained": 430.0,
+      "most_vice_captained": 414.0,
+      "is_prev": false
+    },
+    {
+      "id": 22,
+      "name": "Gameweek 22",
+      "deadline_time": "2026-01-17T11:00:00Z",
+      "release_time": null,
+      "average_entry_score": 40,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 12542399.0,
+      "deadline_time_epoch": 1768647600,
+      "deadline_time_game_offset": 0,
+      "highest_score": 111.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12727093,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 239898
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 76367
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 213369
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 125638
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 5.0,
+      "top_element": 441.0,
+      "top_element_info": {
+        "id": 441,
+        "points": 15
+      },
+      "transfers_made": 12244354,
+      "most_captained": 430.0,
+      "most_vice_captained": 430.0,
+      "is_prev": false
+    },
+    {
+      "id": 23,
+      "name": "Gameweek 23",
+      "deadline_time": "2026-01-24T11:00:00Z",
+      "release_time": null,
+      "average_entry_score": 44,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 943181.0,
+      "deadline_time_epoch": 1769252400,
+      "deadline_time_game_offset": 0,
+      "highest_score": 115.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12748731,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 158150
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 54600
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 169261
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 352912
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 449.0,
+      "top_element": 387.0,
+      "top_element_info": {
+        "id": 387,
+        "points": 13
+      },
+      "transfers_made": 8986548,
+      "most_captained": 430.0,
+      "most_vice_captained": 136.0,
+      "is_prev": false
+    },
+    {
+      "id": 24,
+      "name": "Gameweek 24",
+      "deadline_time": "2026-01-31T13:30:00Z",
+      "release_time": null,
+      "average_entry_score": 55,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 2348034.0,
+      "deadline_time_epoch": 1769866200,
+      "deadline_time_game_offset": 0,
+      "highest_score": 126.0,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12773603,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 175008
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 91022
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 364012
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 85449
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 449.0,
+      "top_element": 18.0,
+      "top_element_info": {
+        "id": 18,
+        "points": 14
+      },
+      "transfers_made": 14084799,
+      "most_captained": 430.0,
+      "most_vice_captained": 430.0,
+      "is_prev": false
+    },
+    {
+      "id": 25,
+      "name": "Gameweek 25",
+      "deadline_time": "2026-02-06T18:30:00Z",
+      "release_time": null,
+      "average_entry_score": 58,
+      "finished": true,
+      "data_checked": true,
+      "highest_scoring_entry": 510899.0,
+      "deadline_time_epoch": 1770402600,
+      "deadline_time_game_offset": 0,
+      "highest_score": 147.0,
+      "is_previous": true,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12799155,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 115138
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 110640
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 248203
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 76563
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 249.0,
+      "top_element": 235.0,
+      "top_element_info": {
+        "id": 235,
+        "points": 20
+      },
+      "transfers_made": 10565045,
+      "most_captained": 430.0,
+      "most_vice_captained": 430.0,
+      "is_prev": true
+    },
+    {
+      "id": 26,
+      "name": "Gameweek 26",
+      "deadline_time": "2026-02-10T18:00:00Z",
+      "release_time": null,
+      "average_entry_score": 46,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": 8562671.0,
+      "deadline_time_epoch": 1770746400,
+      "deadline_time_game_offset": 0,
+      "highest_score": 119.0,
+      "is_previous": false,
+      "is_current": true,
+      "is_next": false,
+      "cup_leagues_created": true,
+      "h2h_ko_matches_created": true,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 12820196,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 163842
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 199177
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 170257
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 994106
+        }
+      ],
+      "most_selected": 430.0,
+      "most_transferred_in": 666.0,
+      "top_element": 373.0,
+      "top_element_info": {
+        "id": 373,
+        "points": 17
+      },
+      "transfers_made": 10933870,
+      "most_captained": 430.0,
+      "most_vice_captained": 430.0,
+      "is_prev": false
+    },
+    {
+      "id": 27,
+      "name": "Gameweek 27",
+      "deadline_time": "2026-02-21T13:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1771680600,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": true,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": true,
+      "can_manage": true,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [
+        {
+          "chip_name": "bboost",
+          "num_played": 46939
+        },
+        {
+          "chip_name": "freehit",
+          "num_played": 22330
+        },
+        {
+          "chip_name": "wildcard",
+          "num_played": 52230
+        },
+        {
+          "chip_name": "3xc",
+          "num_played": 43989
+        }
+      ],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 2788434,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 28,
+      "name": "Gameweek 28",
+      "deadline_time": "2026-02-27T18:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1772217000,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 29,
+      "name": "Gameweek 29",
+      "deadline_time": "2026-03-03T18:00:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1772560800,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 30,
+      "name": "Gameweek 30",
+      "deadline_time": "2026-03-14T11:00:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1773486000,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 31,
+      "name": "Gameweek 31",
+      "deadline_time": "2026-03-20T18:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1774031400,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 32,
+      "name": "Gameweek 32",
+      "deadline_time": "2026-04-11T12:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1775910600,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 33,
+      "name": "Gameweek 33",
+      "deadline_time": "2026-04-18T12:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1776515400,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 34,
+      "name": "Gameweek 34",
+      "deadline_time": "2026-04-25T12:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1777120200,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 35,
+      "name": "Gameweek 35",
+      "deadline_time": "2026-05-02T12:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1777725000,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 36,
+      "name": "Gameweek 36",
+      "deadline_time": "2026-05-09T12:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1778329800,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 37,
+      "name": "Gameweek 37",
+      "deadline_time": "2026-05-17T12:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1779021000,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    },
+    {
+      "id": 38,
+      "name": "Gameweek 38",
+      "deadline_time": "2026-05-24T13:30:00Z",
+      "release_time": null,
+      "average_entry_score": 0,
+      "finished": false,
+      "data_checked": false,
+      "highest_scoring_entry": NaN,
+      "deadline_time_epoch": 1779629400,
+      "deadline_time_game_offset": 0,
+      "highest_score": NaN,
+      "is_previous": false,
+      "is_current": false,
+      "is_next": false,
+      "cup_leagues_created": false,
+      "h2h_ko_matches_created": false,
+      "can_enter": false,
+      "can_manage": false,
+      "released": true,
+      "ranked_count": 0,
+      "overrides": {
+        "rules": {},
+        "scoring": {},
+        "element_types": [],
+        "pick_multiplier": null
+      },
+      "chip_plays": [],
+      "most_selected": NaN,
+      "most_transferred_in": NaN,
+      "top_element": NaN,
+      "top_element_info": null,
+      "transfers_made": 0,
+      "most_captained": NaN,
+      "most_vice_captained": NaN,
+      "is_prev": false
+    }
+  ]
+}

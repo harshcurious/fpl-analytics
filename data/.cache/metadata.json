@@ -1,0 +1,14 @@
+{
+  "bootstrap_static_data": {
+    "upstream_timestamp": "9e6d4608800b436c9fea2a419125e061"
+  },
+  "players_df": {
+    "upstream_timestamp": "9e6d4608800b436c9fea2a419125e061"
+  },
+  "teams_df": {
+    "upstream_timestamp": "9e6d4608800b436c9fea2a419125e061"
+  },
+  "gameweeks_df": {
+    "upstream_timestamp": "9e6d4608800b436c9fea2a419125e061"
+  }
+}
