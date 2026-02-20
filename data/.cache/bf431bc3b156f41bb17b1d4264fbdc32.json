@@ -119,7 +119,7 @@
       "xA": 0.05,
       "value_change": 0,
       "value": 6.0,
-      "points_per_million": 18.0
+      "points_per_match": 18.0
     },
     {
       "can_transact": true,
@@ -239,7 +239,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.1,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -359,7 +359,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -479,7 +479,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -599,7 +599,7 @@
       "xA": 0.87,
       "value_change": 0,
       "value": 7.1,
-      "points_per_million": 19.43661971830986
+      "points_per_match": 19.43661971830986
     },
     {
       "can_transact": true,
@@ -719,7 +719,7 @@
       "xA": 0.59,
       "value_change": 0,
       "value": 6.1,
-      "points_per_million": 13.606557377049182
+      "points_per_match": 13.606557377049182
     },
     {
       "can_transact": true,
@@ -839,7 +839,7 @@
       "xA": 0.39,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 15.178571428571429
+      "points_per_match": 15.178571428571429
     },
     {
       "can_transact": true,
@@ -959,7 +959,7 @@
       "xA": 1.21,
       "value_change": 0,
       "value": 6.4,
-      "points_per_million": 19.21875
+      "points_per_match": 19.21875
     },
     {
       "can_transact": true,
@@ -1079,7 +1079,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -1199,7 +1199,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 2.3529411764705883
+      "points_per_match": 2.3529411764705883
     },
     {
       "can_transact": true,
@@ -1319,7 +1319,7 @@
       "xA": 0.49,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 5.882352941176471
+      "points_per_match": 5.882352941176471
     },
     {
       "can_transact": true,
@@ -1439,7 +1439,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -1559,7 +1559,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -1679,7 +1679,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.7,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -1799,7 +1799,7 @@
       "xA": 5.11,
       "value_change": 0,
       "value": 9.8,
-      "points_per_million": 10.408163265306122
+      "points_per_match": 10.408163265306122
     },
     {
       "can_transact": true,
@@ -1919,7 +1919,7 @@
       "xA": 2.9,
       "value_change": 0,
       "value": 7.8,
-      "points_per_million": 7.435897435897436
+      "points_per_match": 7.435897435897436
     },
     {
       "can_transact": true,
@@ -2039,7 +2039,7 @@
       "xA": 1.94,
       "value_change": 0,
       "value": 6.8,
-      "points_per_million": 7.0588235294117645
+      "points_per_match": 7.0588235294117645
     },
     {
       "can_transact": true,
@@ -2159,7 +2159,7 @@
       "xA": 0.78,
       "value_change": 0,
       "value": 6.8,
-      "points_per_million": 5.588235294117648
+      "points_per_match": 5.588235294117648
     },
     {
       "can_transact": true,
@@ -2279,7 +2279,7 @@
       "xA": 2.51,
       "value_change": 0,
       "value": 6.8,
-      "points_per_million": 13.823529411764707
+      "points_per_match": 13.823529411764707
     },
     {
       "can_transact": true,
@@ -2399,7 +2399,7 @@
       "xA": 5.36,
       "value_change": 0,
       "value": 7.6,
-      "points_per_million": 18.157894736842106
+      "points_per_match": 18.157894736842106
     },
     {
       "can_transact": true,
@@ -2519,7 +2519,7 @@
       "xA": 1.45,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 12.222222222222221
+      "points_per_match": 12.222222222222221
     },
     {
       "can_transact": true,
@@ -2639,7 +2639,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -2759,7 +2759,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 0.7843137254901962
+      "points_per_match": 0.7843137254901962
     },
     {
       "can_transact": true,
@@ -2879,7 +2879,7 @@
       "xA": 0.08,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 1.6
+      "points_per_match": 1.6
     },
     {
       "can_transact": true,
@@ -2999,7 +2999,7 @@
       "xA": 1.75,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 19.433962264150946
+      "points_per_match": 19.433962264150946
     },
     {
       "can_transact": true,
@@ -3119,7 +3119,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -3239,7 +3239,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -3359,7 +3359,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 7.3,
-      "points_per_million": 1.095890410958904
+      "points_per_match": 1.095890410958904
     },
     {
       "can_transact": true,
@@ -3479,7 +3479,7 @@
       "xA": 0.18,
       "value_change": 0,
       "value": 6.4,
-      "points_per_million": 2.65625
+      "points_per_match": 2.65625
     },
     {
       "can_transact": true,
@@ -3599,7 +3599,7 @@
       "xA": 1.7,
       "value_change": 0,
       "value": 7.2,
-      "points_per_million": 9.86111111111111
+      "points_per_match": 9.86111111111111
     },
     {
       "can_transact": true,
@@ -3719,7 +3719,7 @@
       "xA": 0.44,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 3.9622641509433962
+      "points_per_match": 3.9622641509433962
     },
     {
       "can_transact": true,
@@ -3839,7 +3839,7 @@
       "xA": 1.28,
       "value_change": 0,
       "value": 8.8,
-      "points_per_million": 8.636363636363635
+      "points_per_match": 8.636363636363635
     },
     {
       "can_transact": true,
@@ -3959,7 +3959,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 1.1904761904761905
+      "points_per_match": 1.1904761904761905
     },
     {
       "can_transact": true,
@@ -4079,7 +4079,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -4199,7 +4199,7 @@
       "xA": 0.93,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 9.607843137254903
+      "points_per_match": 9.607843137254903
     },
     {
       "can_transact": true,
@@ -4319,7 +4319,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -4432,7 +4432,7 @@
       "xA": 0.05,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 18.4
+      "points_per_match": 18.4
     },
     {
       "can_transact": true,
@@ -4545,7 +4545,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 2.619047619047619
+      "points_per_match": 2.619047619047619
     },
     {
       "can_transact": true,
@@ -4658,7 +4658,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -4771,7 +4771,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -4884,7 +4884,7 @@
       "xA": 2.25,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 20.20408163265306
+      "points_per_match": 20.20408163265306
     },
     {
       "can_transact": true,
@@ -4997,7 +4997,7 @@
       "xA": 2.21,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 16.0
+      "points_per_match": 16.0
     },
     {
       "can_transact": true,
@@ -5110,7 +5110,7 @@
       "xA": 0.51,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 18.18181818181818
+      "points_per_match": 18.18181818181818
     },
     {
       "can_transact": true,
@@ -5223,7 +5223,7 @@
       "xA": 1.72,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 8.571428571428571
+      "points_per_match": 8.571428571428571
     },
     {
       "can_transact": true,
@@ -5336,7 +5336,7 @@
       "xA": 0.1,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 9.069767441860465
+      "points_per_match": 9.069767441860465
     },
     {
       "can_transact": true,
@@ -5449,7 +5449,7 @@
       "xA": 0.33,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 11.395348837209303
+      "points_per_match": 11.395348837209303
     },
     {
       "can_transact": true,
@@ -5562,7 +5562,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.25641025641025644
+      "points_per_match": 0.25641025641025644
     },
     {
       "can_transact": true,
@@ -5675,7 +5675,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -5788,7 +5788,7 @@
       "xA": 0.16,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 8.0
+      "points_per_match": 8.0
     },
     {
       "can_transact": true,
@@ -5901,7 +5901,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -6014,7 +6014,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -6127,7 +6127,7 @@
       "xA": 2.9,
       "value_change": 0,
       "value": 7.6,
-      "points_per_million": 16.447368421052634
+      "points_per_match": 16.447368421052634
     },
     {
       "can_transact": true,
@@ -6240,7 +6240,7 @@
       "xA": 2.53,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 8.813559322033898
+      "points_per_match": 8.813559322033898
     },
     {
       "can_transact": true,
@@ -6353,7 +6353,7 @@
       "xA": 0.54,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 0.7272727272727273
+      "points_per_match": 0.7272727272727273
     },
     {
       "can_transact": true,
@@ -6466,7 +6466,7 @@
       "xA": 1.43,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 14.150943396226415
+      "points_per_match": 14.150943396226415
     },
     {
       "can_transact": true,
@@ -6579,7 +6579,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -6692,7 +6692,7 @@
       "xA": 0.35,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 10.784313725490197
+      "points_per_match": 10.784313725490197
     },
     {
       "can_transact": true,
@@ -6805,7 +6805,7 @@
       "xA": 1.96,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 13.148148148148147
+      "points_per_match": 13.148148148148147
     },
     {
       "can_transact": true,
@@ -6918,7 +6918,7 @@
       "xA": 0.18,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 3.541666666666667
+      "points_per_match": 3.541666666666667
     },
     {
       "can_transact": true,
@@ -7031,7 +7031,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -7144,7 +7144,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -7257,7 +7257,7 @@
       "xA": 0.84,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 12.448979591836734
+      "points_per_match": 12.448979591836734
     },
     {
       "can_transact": true,
@@ -7370,7 +7370,7 @@
       "xA": 0.26,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 12.083333333333334
+      "points_per_match": 12.083333333333334
     },
     {
       "can_transact": true,
@@ -7483,7 +7483,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -7596,7 +7596,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -7709,7 +7709,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.2222222222222222
+      "points_per_match": 0.2222222222222222
     },
     {
       "can_transact": true,
@@ -7822,7 +7822,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -7935,7 +7935,7 @@
       "xA": 0.96,
       "value_change": 0,
       "value": 8.6,
-      "points_per_million": 11.046511627906977
+      "points_per_match": 11.046511627906977
     },
     {
       "can_transact": true,
@@ -8048,7 +8048,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -8168,7 +8168,7 @@
       "xA": 0.08,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 0.9803921568627452
+      "points_per_match": 0.9803921568627452
     },
     {
       "can_transact": true,
@@ -8288,7 +8288,7 @@
       "xA": 1.24,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 3.9655172413793105
+      "points_per_match": 3.9655172413793105
     },
     {
       "can_transact": true,
@@ -8401,7 +8401,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -8514,7 +8514,7 @@
       "xA": 1.04,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 3.6734693877551017
+      "points_per_match": 3.6734693877551017
     },
     {
       "can_transact": true,
@@ -8627,7 +8627,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -8740,7 +8740,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.22727272727272727
+      "points_per_match": 0.22727272727272727
     },
     {
       "can_transact": true,
@@ -8853,7 +8853,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -8966,7 +8966,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -9079,7 +9079,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 4.888888888888889
+      "points_per_match": 4.888888888888889
     },
     {
       "can_transact": true,
@@ -9192,7 +9192,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.4444444444444444
+      "points_per_match": 0.4444444444444444
     },
     {
       "can_transact": true,
@@ -9305,7 +9305,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -9418,7 +9418,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -9531,7 +9531,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -9644,7 +9644,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.2
+      "points_per_match": 0.2
     },
     {
       "can_transact": true,
@@ -9757,7 +9757,7 @@
       "xA": 0.08,
       "value_change": 0,
       "value": 6.0,
-      "points_per_million": 0.6666666666666666
+      "points_per_match": 0.6666666666666666
     },
     {
       "can_transact": true,
@@ -9870,7 +9870,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -9983,7 +9983,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -10096,7 +10096,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -10209,7 +10209,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -10322,7 +10322,7 @@
       "xA": 0.96,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 11.59090909090909
+      "points_per_match": 11.59090909090909
     },
     {
       "can_transact": true,
@@ -10435,7 +10435,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -10548,7 +10548,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -10661,7 +10661,7 @@
       "xA": 0.24,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 11.282051282051283
+      "points_per_match": 11.282051282051283
     },
     {
       "can_transact": true,
@@ -10774,7 +10774,7 @@
       "xA": 0.53,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 14.615384615384615
+      "points_per_match": 14.615384615384615
     },
     {
       "can_transact": true,
@@ -10887,7 +10887,7 @@
       "xA": 1.51,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 11.5
+      "points_per_match": 11.5
     },
     {
       "can_transact": true,
@@ -11000,7 +11000,7 @@
       "xA": 0.47,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 7.6923076923076925
+      "points_per_match": 7.6923076923076925
     },
     {
       "can_transact": true,
@@ -11113,7 +11113,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -11226,7 +11226,7 @@
       "xA": 0.95,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 4.2105263157894735
+      "points_per_match": 4.2105263157894735
     },
     {
       "can_transact": true,
@@ -11339,7 +11339,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -11452,7 +11452,7 @@
       "xA": 0.08,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 3.4210526315789473
+      "points_per_match": 3.4210526315789473
     },
     {
       "can_transact": true,
@@ -11565,7 +11565,7 @@
       "xA": 0.11,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 6.923076923076923
+      "points_per_match": 6.923076923076923
     },
     {
       "can_transact": true,
@@ -11678,7 +11678,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 2.6315789473684212
+      "points_per_match": 2.6315789473684212
     },
     {
       "can_transact": true,
@@ -11791,7 +11791,7 @@
       "xA": 1.69,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 16.8
+      "points_per_match": 16.8
     },
     {
       "can_transact": true,
@@ -11904,7 +11904,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -12017,7 +12017,7 @@
       "xA": 1.06,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 6.415094339622642
+      "points_per_match": 6.415094339622642
     },
     {
       "can_transact": true,
@@ -12130,7 +12130,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -12243,7 +12243,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -12356,7 +12356,7 @@
       "xA": 1.36,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 14.285714285714285
+      "points_per_match": 14.285714285714285
     },
     {
       "can_transact": true,
@@ -12469,7 +12469,7 @@
       "xA": 1.64,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 8.72340425531915
+      "points_per_match": 8.72340425531915
     },
     {
       "can_transact": true,
@@ -12582,7 +12582,7 @@
       "xA": 1.04,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 7.659574468085106
+      "points_per_match": 7.659574468085106
     },
     {
       "can_transact": true,
@@ -12695,7 +12695,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -12808,7 +12808,7 @@
       "xA": 0.3,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 9.375
+      "points_per_match": 9.375
     },
     {
       "can_transact": true,
@@ -12921,7 +12921,7 @@
       "xA": 0.45,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 7.142857142857142
+      "points_per_match": 7.142857142857142
     },
     {
       "can_transact": true,
@@ -13034,7 +13034,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -13147,7 +13147,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -13260,7 +13260,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.2222222222222222
+      "points_per_match": 0.2222222222222222
     },
     {
       "can_transact": true,
@@ -13373,7 +13373,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.9090909090909091
+      "points_per_match": 0.9090909090909091
     },
     {
       "can_transact": true,
@@ -13486,7 +13486,7 @@
       "xA": 0.18,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 8.867924528301888
+      "points_per_match": 8.867924528301888
     },
     {
       "can_transact": true,
@@ -13599,7 +13599,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -13712,7 +13712,7 @@
       "xA": 0.26,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 9.387755102040815
+      "points_per_match": 9.387755102040815
     },
     {
       "can_transact": true,
@@ -13825,7 +13825,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.23809523809523808
+      "points_per_match": 0.23809523809523808
     },
     {
       "can_transact": true,
@@ -13938,7 +13938,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -14051,7 +14051,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 19.0
+      "points_per_match": 19.0
     },
     {
       "can_transact": true,
@@ -14164,7 +14164,7 @@
       "xA": 0.92,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 2.142857142857143
+      "points_per_match": 2.142857142857143
     },
     {
       "can_transact": true,
@@ -14277,7 +14277,7 @@
       "xA": 0.25,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 15.4
+      "points_per_match": 15.4
     },
     {
       "can_transact": true,
@@ -14390,7 +14390,7 @@
       "xA": 0.13,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 7.3076923076923075
+      "points_per_match": 7.3076923076923075
     },
     {
       "can_transact": true,
@@ -14503,7 +14503,7 @@
       "xA": 0.38,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 12.8
+      "points_per_match": 12.8
     },
     {
       "can_transact": true,
@@ -14616,7 +14616,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -14729,7 +14729,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -14842,7 +14842,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -14955,7 +14955,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 16.88888888888889
+      "points_per_match": 16.88888888888889
     },
     {
       "can_transact": true,
@@ -15068,7 +15068,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -15181,7 +15181,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -15294,7 +15294,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -15407,7 +15407,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -15520,7 +15520,7 @@
       "xA": 3.96,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 22.083333333333336
+      "points_per_match": 22.083333333333336
     },
     {
       "can_transact": true,
@@ -15633,7 +15633,7 @@
       "xA": 0.11,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 6.59090909090909
+      "points_per_match": 6.59090909090909
     },
     {
       "can_transact": true,
@@ -15746,7 +15746,7 @@
       "xA": 1.71,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 19.77777777777778
+      "points_per_match": 19.77777777777778
     },
     {
       "can_transact": true,
@@ -15859,7 +15859,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -15972,7 +15972,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -16085,7 +16085,7 @@
       "xA": 0.76,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 14.75
+      "points_per_match": 14.75
     },
     {
       "can_transact": true,
@@ -16198,7 +16198,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -16311,7 +16311,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -16424,7 +16424,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.75
+      "points_per_match": 0.75
     },
     {
       "can_transact": true,
@@ -16537,7 +16537,7 @@
       "xA": 1.54,
       "value_change": 0,
       "value": 7.0,
-      "points_per_million": 5.714285714285714
+      "points_per_match": 5.714285714285714
     },
     {
       "can_transact": true,
@@ -16650,7 +16650,7 @@
       "xA": 2.43,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 17.735849056603776
+      "points_per_match": 17.735849056603776
     },
     {
       "can_transact": true,
@@ -16763,7 +16763,7 @@
       "xA": 0.32,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 10.204081632653061
+      "points_per_match": 10.204081632653061
     },
     {
       "can_transact": true,
@@ -16876,7 +16876,7 @@
       "xA": 2.8,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 8.8
+      "points_per_match": 8.8
     },
     {
       "can_transact": true,
@@ -16989,7 +16989,7 @@
       "xA": 0.39,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 4.897959183673469
+      "points_per_match": 4.897959183673469
     },
     {
       "can_transact": true,
@@ -17102,7 +17102,7 @@
       "xA": 0.52,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 7.755102040816326
+      "points_per_match": 7.755102040816326
     },
     {
       "can_transact": true,
@@ -17215,7 +17215,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -17328,7 +17328,7 @@
       "xA": 1.25,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 18.0
+      "points_per_match": 18.0
     },
     {
       "can_transact": true,
@@ -17441,7 +17441,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -17554,7 +17554,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -17667,7 +17667,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.8888888888888888
+      "points_per_match": 0.8888888888888888
     },
     {
       "can_transact": true,
@@ -17780,7 +17780,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -17893,7 +17893,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -18006,7 +18006,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.2222222222222222
+      "points_per_match": 0.2222222222222222
     },
     {
       "can_transact": true,
@@ -18119,7 +18119,7 @@
       "xA": 0.92,
       "value_change": 0,
       "value": 7.0,
-      "points_per_million": 11.0
+      "points_per_match": 11.0
     },
     {
       "can_transact": true,
@@ -18232,7 +18232,7 @@
       "xA": 0.05,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 3.148148148148148
+      "points_per_match": 3.148148148148148
     },
     {
       "can_transact": true,
@@ -18345,7 +18345,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -18458,7 +18458,7 @@
       "xA": 0.59,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 14.25531914893617
+      "points_per_match": 14.25531914893617
     },
     {
       "can_transact": true,
@@ -18571,7 +18571,7 @@
       "xA": 0.09,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 1.4583333333333335
+      "points_per_match": 1.4583333333333335
     },
     {
       "can_transact": true,
@@ -18684,7 +18684,7 @@
       "xA": 0.19,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 10.952380952380953
+      "points_per_match": 10.952380952380953
     },
     {
       "can_transact": true,
@@ -18797,7 +18797,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -18910,7 +18910,7 @@
       "xA": 1.45,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 10.185185185185185
+      "points_per_match": 10.185185185185185
     },
     {
       "can_transact": true,
@@ -19023,7 +19023,7 @@
       "xA": 0.86,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 10.444444444444445
+      "points_per_match": 10.444444444444445
     },
     {
       "can_transact": true,
@@ -19136,7 +19136,7 @@
       "xA": 0.19,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 4.3181818181818175
+      "points_per_match": 4.3181818181818175
     },
     {
       "can_transact": true,
@@ -19249,7 +19249,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -19362,7 +19362,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -19475,7 +19475,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -19588,7 +19588,7 @@
       "xA": 0.08,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.6
+      "points_per_match": 0.6
     },
     {
       "can_transact": true,
@@ -19701,7 +19701,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -19814,7 +19814,7 @@
       "xA": 0.72,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 3.4545454545454546
+      "points_per_match": 3.4545454545454546
     },
     {
       "can_transact": true,
@@ -19927,7 +19927,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 1.25
+      "points_per_match": 1.25
     },
     {
       "can_transact": true,
@@ -20040,7 +20040,7 @@
       "xA": 1.44,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 15.0
+      "points_per_match": 15.0
     },
     {
       "can_transact": true,
@@ -20153,7 +20153,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 20.869565217391305
+      "points_per_match": 20.869565217391305
     },
     {
       "can_transact": true,
@@ -20266,7 +20266,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -20379,7 +20379,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -20492,7 +20492,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -20605,7 +20605,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -20718,7 +20718,7 @@
       "xA": 0.88,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 18.4
+      "points_per_match": 18.4
     },
     {
       "can_transact": true,
@@ -20831,7 +20831,7 @@
       "xA": 0.99,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 16.041666666666668
+      "points_per_match": 16.041666666666668
     },
     {
       "can_transact": true,
@@ -20944,7 +20944,7 @@
       "xA": 0.62,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 14.09090909090909
+      "points_per_match": 14.09090909090909
     },
     {
       "can_transact": true,
@@ -21057,7 +21057,7 @@
       "xA": 0.44,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 10.697674418604652
+      "points_per_match": 10.697674418604652
     },
     {
       "can_transact": true,
@@ -21170,7 +21170,7 @@
       "xA": 2.34,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 16.22222222222222
+      "points_per_match": 16.22222222222222
     },
     {
       "can_transact": true,
@@ -21283,7 +21283,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.9523809523809523
+      "points_per_match": 0.9523809523809523
     },
     {
       "can_transact": true,
@@ -21396,7 +21396,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -21509,7 +21509,7 @@
       "xA": 0.48,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 15.11111111111111
+      "points_per_match": 15.11111111111111
     },
     {
       "can_transact": true,
@@ -21622,7 +21622,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -21735,7 +21735,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -21848,7 +21848,7 @@
       "xA": 0.17,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 8.0
+      "points_per_match": 8.0
     },
     {
       "can_transact": true,
@@ -21961,7 +21961,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -22074,7 +22074,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -22187,7 +22187,7 @@
       "xA": 1.72,
       "value_change": 0,
       "value": 6.9,
-      "points_per_million": 12.463768115942027
+      "points_per_match": 12.463768115942027
     },
     {
       "can_transact": true,
@@ -22300,7 +22300,7 @@
       "xA": 3.66,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 11.25
+      "points_per_match": 11.25
     },
     {
       "can_transact": true,
@@ -22413,7 +22413,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 0.1923076923076923
+      "points_per_match": 0.1923076923076923
     },
     {
       "can_transact": true,
@@ -22526,7 +22526,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 2.7659574468085104
+      "points_per_match": 2.7659574468085104
     },
     {
       "can_transact": true,
@@ -22639,7 +22639,7 @@
       "xA": 2.04,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 12.4
+      "points_per_match": 12.4
     },
     {
       "can_transact": true,
@@ -22752,7 +22752,7 @@
       "xA": 1.85,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 14.081632653061224
+      "points_per_match": 14.081632653061224
     },
     {
       "can_transact": true,
@@ -22865,7 +22865,7 @@
       "xA": 3.22,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 11.63265306122449
+      "points_per_match": 11.63265306122449
     },
     {
       "can_transact": true,
@@ -22978,7 +22978,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -23091,7 +23091,7 @@
       "xA": 0.36,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 2.5
+      "points_per_match": 2.5
     },
     {
       "can_transact": true,
@@ -23204,7 +23204,7 @@
       "xA": 1.08,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 14.8
+      "points_per_match": 14.8
     },
     {
       "can_transact": true,
@@ -23317,7 +23317,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.45454545454545453
+      "points_per_match": 0.45454545454545453
     },
     {
       "can_transact": true,
@@ -23430,7 +23430,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -23543,7 +23543,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -23656,7 +23656,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.22727272727272727
+      "points_per_match": 0.22727272727272727
     },
     {
       "can_transact": true,
@@ -23769,7 +23769,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -23882,7 +23882,7 @@
       "xA": 1.01,
       "value_change": 0,
       "value": 7.0,
-      "points_per_million": 19.0
+      "points_per_match": 19.0
     },
     {
       "can_transact": true,
@@ -23995,7 +23995,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -24108,7 +24108,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -24221,7 +24221,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -24334,7 +24334,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -24447,7 +24447,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -24560,7 +24560,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 17.555555555555557
+      "points_per_match": 17.555555555555557
     },
     {
       "can_transact": true,
@@ -24673,7 +24673,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -24786,7 +24786,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -24899,7 +24899,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -25012,7 +25012,7 @@
       "xA": 0.24,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 4.761904761904762
+      "points_per_match": 4.761904761904762
     },
     {
       "can_transact": true,
@@ -25125,7 +25125,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 2.380952380952381
+      "points_per_match": 2.380952380952381
     },
     {
       "can_transact": true,
@@ -25238,7 +25238,7 @@
       "xA": 2.15,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 13.488372093023257
+      "points_per_match": 13.488372093023257
     },
     {
       "can_transact": true,
@@ -25351,7 +25351,7 @@
       "xA": 0.46,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 14.0
+      "points_per_match": 14.0
     },
     {
       "can_transact": true,
@@ -25464,7 +25464,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -25577,7 +25577,7 @@
       "xA": 2.22,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 14.772727272727272
+      "points_per_match": 14.772727272727272
     },
     {
       "can_transact": true,
@@ -25690,7 +25690,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 1.3333333333333333
+      "points_per_match": 1.3333333333333333
     },
     {
       "can_transact": true,
@@ -25803,7 +25803,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -25916,7 +25916,7 @@
       "xA": 0.91,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 20.909090909090907
+      "points_per_match": 20.909090909090907
     },
     {
       "can_transact": true,
@@ -26029,7 +26029,7 @@
       "xA": 0.11,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 7.209302325581396
+      "points_per_match": 7.209302325581396
     },
     {
       "can_transact": true,
@@ -26142,7 +26142,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -26255,7 +26255,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -26368,7 +26368,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -26481,7 +26481,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -26594,7 +26594,7 @@
       "xA": 1.95,
       "value_change": 0,
       "value": 6.1,
-      "points_per_million": 7.3770491803278695
+      "points_per_match": 7.3770491803278695
     },
     {
       "can_transact": true,
@@ -26707,7 +26707,7 @@
       "xA": 2.06,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 11.607142857142858
+      "points_per_match": 11.607142857142858
     },
     {
       "can_transact": true,
@@ -26820,7 +26820,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -26933,7 +26933,7 @@
       "xA": 2.78,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 15.000000000000002
+      "points_per_match": 15.000000000000002
     },
     {
       "can_transact": true,
@@ -27046,7 +27046,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -27159,7 +27159,7 @@
       "xA": 0.88,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 6.481481481481481
+      "points_per_match": 6.481481481481481
     },
     {
       "can_transact": true,
@@ -27272,7 +27272,7 @@
       "xA": 0.46,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 7.254901960784315
+      "points_per_match": 7.254901960784315
     },
     {
       "can_transact": true,
@@ -27385,7 +27385,7 @@
       "xA": 0.18,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 2.3636363636363638
+      "points_per_match": 2.3636363636363638
     },
     {
       "can_transact": true,
@@ -27498,7 +27498,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -27611,7 +27611,7 @@
       "xA": 1.07,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 17.291666666666668
+      "points_per_match": 17.291666666666668
     },
     {
       "can_transact": true,
@@ -27724,7 +27724,7 @@
       "xA": 0.27,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 8.0
+      "points_per_match": 8.0
     },
     {
       "can_transact": true,
@@ -27837,7 +27837,7 @@
       "xA": 1.21,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 12.040816326530612
+      "points_per_match": 12.040816326530612
     },
     {
       "can_transact": true,
@@ -27950,7 +27950,7 @@
       "xA": 0.57,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 4.897959183673469
+      "points_per_match": 4.897959183673469
     },
     {
       "can_transact": true,
@@ -28063,7 +28063,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -28176,7 +28176,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 1.0416666666666667
+      "points_per_match": 1.0416666666666667
     },
     {
       "can_transact": true,
@@ -28289,7 +28289,7 @@
       "xA": 1.47,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 11.83673469387755
+      "points_per_match": 11.83673469387755
     },
     {
       "can_transact": true,
@@ -28402,7 +28402,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -28515,7 +28515,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.22727272727272727
+      "points_per_match": 0.22727272727272727
     },
     {
       "can_transact": true,
@@ -28628,7 +28628,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -28741,7 +28741,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -28854,7 +28854,7 @@
       "xA": 0.75,
       "value_change": 0,
       "value": 6.1,
-      "points_per_million": 11.967213114754099
+      "points_per_match": 11.967213114754099
     },
     {
       "can_transact": true,
@@ -28967,7 +28967,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -29080,7 +29080,7 @@
       "xA": 0.11,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 3.0769230769230766
+      "points_per_match": 3.0769230769230766
     },
     {
       "can_transact": true,
@@ -29193,7 +29193,7 @@
       "xA": 0.23,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 6.25
+      "points_per_match": 6.25
     },
     {
       "can_transact": true,
@@ -29306,7 +29306,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.2222222222222222
+      "points_per_match": 0.2222222222222222
     },
     {
       "can_transact": true,
@@ -29419,7 +29419,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -29532,7 +29532,7 @@
       "xA": 1.35,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 4.181818181818182
+      "points_per_match": 4.181818181818182
     },
     {
       "can_transact": true,
@@ -29645,7 +29645,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.6666666666666666
+      "points_per_match": 0.6666666666666666
     },
     {
       "can_transact": true,
@@ -29758,7 +29758,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 18.97959183673469
+      "points_per_match": 18.97959183673469
     },
     {
       "can_transact": true,
@@ -29871,7 +29871,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.6976744186046512
+      "points_per_match": 0.6976744186046512
     },
     {
       "can_transact": true,
@@ -29984,7 +29984,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -30097,7 +30097,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -30210,7 +30210,7 @@
       "xA": 2.73,
       "value_change": 0,
       "value": 6.1,
-      "points_per_million": 14.754098360655739
+      "points_per_match": 14.754098360655739
     },
     {
       "can_transact": true,
@@ -30323,7 +30323,7 @@
       "xA": 2.3,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 17.321428571428573
+      "points_per_match": 17.321428571428573
     },
     {
       "can_transact": true,
@@ -30436,7 +30436,7 @@
       "xA": 0.74,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 21.379310344827587
+      "points_per_match": 21.379310344827587
     },
     {
       "can_transact": true,
@@ -30549,7 +30549,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -30662,7 +30662,7 @@
       "xA": 1.19,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 15.714285714285714
+      "points_per_match": 15.714285714285714
     },
     {
       "can_transact": true,
@@ -30775,7 +30775,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 1.5909090909090908
+      "points_per_match": 1.5909090909090908
     },
     {
       "can_transact": true,
@@ -30888,7 +30888,7 @@
       "xA": 0.52,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 11.136363636363635
+      "points_per_match": 11.136363636363635
     },
     {
       "can_transact": true,
@@ -31001,7 +31001,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -31114,7 +31114,7 @@
       "xA": 0.4,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 7.5
+      "points_per_match": 7.5
     },
     {
       "can_transact": true,
@@ -31227,7 +31227,7 @@
       "xA": 0.1,
       "value_change": 0,
       "value": 3.7,
-      "points_per_million": 8.648648648648647
+      "points_per_match": 8.648648648648647
     },
     {
       "can_transact": true,
@@ -31340,7 +31340,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -31453,7 +31453,7 @@
       "xA": 0.96,
       "value_change": 0,
       "value": 10.6,
-      "points_per_million": 7.452830188679245
+      "points_per_match": 7.452830188679245
     },
     {
       "can_transact": true,
@@ -31566,7 +31566,7 @@
       "xA": 5.02,
       "value_change": 0,
       "value": 7.0,
-      "points_per_million": 14.142857142857142
+      "points_per_match": 14.142857142857142
     },
     {
       "can_transact": true,
@@ -31679,7 +31679,7 @@
       "xA": 5.13,
       "value_change": 0,
       "value": 6.9,
-      "points_per_million": 17.101449275362317
+      "points_per_match": 17.101449275362317
     },
     {
       "can_transact": true,
@@ -31792,7 +31792,7 @@
       "xA": 2.12,
       "value_change": 0,
       "value": 6.4,
-      "points_per_million": 8.59375
+      "points_per_match": 8.59375
     },
     {
       "can_transact": true,
@@ -31905,7 +31905,7 @@
       "xA": 0.94,
       "value_change": 0,
       "value": 6.0,
-      "points_per_million": 4.166666666666667
+      "points_per_match": 4.166666666666667
     },
     {
       "can_transact": true,
@@ -32018,7 +32018,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -32131,7 +32131,7 @@
       "xA": 1.76,
       "value_change": 0,
       "value": 5.7,
-      "points_per_million": 14.912280701754385
+      "points_per_match": 14.912280701754385
     },
     {
       "can_transact": true,
@@ -32244,7 +32244,7 @@
       "xA": 0.05,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.8163265306122448
+      "points_per_match": 0.8163265306122448
     },
     {
       "can_transact": true,
@@ -32357,7 +32357,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -32470,7 +32470,7 @@
       "xA": 0.7,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 5.777777777777778
+      "points_per_match": 5.777777777777778
     },
     {
       "can_transact": true,
@@ -32583,7 +32583,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -32696,7 +32696,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -32809,7 +32809,7 @@
       "xA": 1.65,
       "value_change": 0,
       "value": 7.7,
-      "points_per_million": 17.142857142857142
+      "points_per_match": 17.142857142857142
     },
     {
       "can_transact": true,
@@ -32922,7 +32922,7 @@
       "xA": 0.18,
       "value_change": 0,
       "value": 6.2,
-      "points_per_million": 5.32258064516129
+      "points_per_match": 5.32258064516129
     },
     {
       "can_transact": true,
@@ -33035,7 +33035,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 6.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -33148,7 +33148,7 @@
       "xA": 0.29,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 2.857142857142857
+      "points_per_match": 2.857142857142857
     },
     {
       "can_transact": true,
@@ -33261,7 +33261,7 @@
       "xA": 2.57,
       "value_change": 0,
       "value": 6.4,
-      "points_per_million": 6.5625
+      "points_per_match": 6.5625
     },
     {
       "can_transact": true,
@@ -33374,7 +33374,7 @@
       "xA": 0.3,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 1.7391304347826089
+      "points_per_match": 1.7391304347826089
     },
     {
       "can_transact": true,
@@ -33487,7 +33487,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -33600,7 +33600,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -33713,7 +33713,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -33833,7 +33833,7 @@
       "xA": 0.1,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 18.6
+      "points_per_match": 18.6
     },
     {
       "can_transact": true,
@@ -33953,7 +33953,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -34073,7 +34073,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -34193,7 +34193,7 @@
       "xA": 3.27,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 16.610169491525422
+      "points_per_match": 16.610169491525422
     },
     {
       "can_transact": true,
@@ -34313,7 +34313,7 @@
       "xA": 0.72,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 22.745098039215687
+      "points_per_match": 22.745098039215687
     },
     {
       "can_transact": true,
@@ -34433,7 +34433,7 @@
       "xA": 1.44,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 18.8
+      "points_per_match": 18.8
     },
     {
       "can_transact": true,
@@ -34553,7 +34553,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 1.0416666666666667
+      "points_per_match": 1.0416666666666667
     },
     {
       "can_transact": true,
@@ -34673,7 +34673,7 @@
       "xA": 1.26,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 21.136363636363633
+      "points_per_match": 21.136363636363633
     },
     {
       "can_transact": true,
@@ -34793,7 +34793,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 1.5
+      "points_per_match": 1.5
     },
     {
       "can_transact": true,
@@ -34913,7 +34913,7 @@
       "xA": 0.56,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 3.68421052631579
+      "points_per_match": 3.68421052631579
     },
     {
       "can_transact": true,
@@ -35033,7 +35033,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -35153,7 +35153,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -35273,7 +35273,7 @@
       "xA": 0.63,
       "value_change": 0,
       "value": 6.4,
-      "points_per_million": 11.09375
+      "points_per_match": 11.09375
     },
     {
       "can_transact": true,
@@ -35393,7 +35393,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -35513,7 +35513,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 0.851063829787234
+      "points_per_match": 0.851063829787234
     },
     {
       "can_transact": true,
@@ -35633,7 +35633,7 @@
       "xA": 1.64,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 7.872340425531915
+      "points_per_match": 7.872340425531915
     },
     {
       "can_transact": true,
@@ -35753,7 +35753,7 @@
       "xA": 1.96,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 9.6
+      "points_per_match": 9.6
     },
     {
       "can_transact": true,
@@ -35873,7 +35873,7 @@
       "xA": 0.91,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 10.408163265306122
+      "points_per_match": 10.408163265306122
     },
     {
       "can_transact": true,
@@ -35993,7 +35993,7 @@
       "xA": 5.05,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 15.2
+      "points_per_match": 15.2
     },
     {
       "can_transact": true,
@@ -36113,7 +36113,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -36233,7 +36233,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -36353,7 +36353,7 @@
       "xA": 0.36,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 6.744186046511628
+      "points_per_match": 6.744186046511628
     },
     {
       "can_transact": true,
@@ -36473,7 +36473,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -36593,7 +36593,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -36713,7 +36713,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -36833,7 +36833,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -36953,7 +36953,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.22727272727272727
+      "points_per_match": 0.22727272727272727
     },
     {
       "can_transact": true,
@@ -37073,7 +37073,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -37193,7 +37193,7 @@
       "xA": 1.26,
       "value_change": 0,
       "value": 7.5,
-      "points_per_million": 11.2
+      "points_per_match": 11.2
     },
     {
       "can_transact": true,
@@ -37313,7 +37313,7 @@
       "xA": 0.46,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 4.259259259259259
+      "points_per_match": 4.259259259259259
     },
     {
       "can_transact": true,
@@ -37433,7 +37433,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.2
+      "points_per_match": 0.2
     },
     {
       "can_transact": true,
@@ -37553,7 +37553,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -37673,7 +37673,7 @@
       "xA": 0.7,
       "value_change": 0,
       "value": 6.5,
-      "points_per_million": 6.923076923076923
+      "points_per_match": 6.923076923076923
     },
     {
       "can_transact": true,
@@ -37793,7 +37793,7 @@
       "xA": 0.52,
       "value_change": 0,
       "value": 6.1,
-      "points_per_million": 8.688524590163935
+      "points_per_match": 8.688524590163935
     },
     {
       "can_transact": true,
@@ -37913,7 +37913,7 @@
       "xA": 0.5,
       "value_change": 0,
       "value": 6.2,
-      "points_per_million": 4.838709677419355
+      "points_per_match": 4.838709677419355
     },
     {
       "can_transact": true,
@@ -38033,7 +38033,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -38153,7 +38153,7 @@
       "xA": 4.73,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 10.517241379310345
+      "points_per_match": 10.517241379310345
     },
     {
       "can_transact": true,
@@ -38273,7 +38273,7 @@
       "xA": 0.12,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 6.0
+      "points_per_match": 6.0
     },
     {
       "can_transact": true,
@@ -38393,7 +38393,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 2.909090909090909
+      "points_per_match": 2.909090909090909
     },
     {
       "can_transact": true,
@@ -38513,7 +38513,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.4444444444444444
+      "points_per_match": 0.4444444444444444
     },
     {
       "can_transact": true,
@@ -38633,7 +38633,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -38753,7 +38753,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -38873,7 +38873,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -38993,7 +38993,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -39106,7 +39106,7 @@
       "xA": 3.26,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 18.97959183673469
+      "points_per_match": 18.97959183673469
     },
     {
       "can_transact": true,
@@ -39226,7 +39226,7 @@
       "xA": 0.12,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 1.4583333333333335
+      "points_per_match": 1.4583333333333335
     },
     {
       "can_transact": true,
@@ -39339,7 +39339,7 @@
       "xA": 0.14,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 19.28571428571429
+      "points_per_match": 19.28571428571429
     },
     {
       "can_transact": true,
@@ -39452,7 +39452,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -39565,7 +39565,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -39678,7 +39678,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 1.3207547169811322
+      "points_per_match": 1.3207547169811322
     },
     {
       "can_transact": true,
@@ -39791,7 +39791,7 @@
       "xA": 1.3,
       "value_change": 0,
       "value": 5.7,
-      "points_per_million": 20.526315789473685
+      "points_per_match": 20.526315789473685
     },
     {
       "can_transact": true,
@@ -39904,7 +39904,7 @@
       "xA": 2.14,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 13.673469387755102
+      "points_per_match": 13.673469387755102
     },
     {
       "can_transact": true,
@@ -40017,7 +40017,7 @@
       "xA": 0.68,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 17.551020408163264
+      "points_per_match": 17.551020408163264
     },
     {
       "can_transact": true,
@@ -40130,7 +40130,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.7142857142857143
+      "points_per_match": 0.7142857142857143
     },
     {
       "can_transact": true,
@@ -40243,7 +40243,7 @@
       "xA": 0.18,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 21.914893617021274
+      "points_per_match": 21.914893617021274
     },
     {
       "can_transact": true,
@@ -40356,7 +40356,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 4.7727272727272725
+      "points_per_match": 4.7727272727272725
     },
     {
       "can_transact": true,
@@ -40469,7 +40469,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -40582,7 +40582,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -40695,7 +40695,7 @@
       "xA": 3.64,
       "value_change": 0,
       "value": 6.2,
-      "points_per_million": 14.193548387096774
+      "points_per_match": 14.193548387096774
     },
     {
       "can_transact": true,
@@ -40808,7 +40808,7 @@
       "xA": 0.68,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 5.2727272727272725
+      "points_per_match": 5.2727272727272725
     },
     {
       "can_transact": true,
@@ -40921,7 +40921,7 @@
       "xA": 0.44,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 5.0
+      "points_per_match": 5.0
     },
     {
       "can_transact": true,
@@ -41034,7 +41034,7 @@
       "xA": 0.87,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 10.185185185185185
+      "points_per_match": 10.185185185185185
     },
     {
       "can_transact": true,
@@ -41147,7 +41147,7 @@
       "xA": 4.25,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 21.346153846153847
+      "points_per_match": 21.346153846153847
     },
     {
       "can_transact": true,
@@ -41260,7 +41260,7 @@
       "xA": 0.58,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 10.416666666666668
+      "points_per_match": 10.416666666666668
     },
     {
       "can_transact": true,
@@ -41373,7 +41373,7 @@
       "xA": 0.17,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 3.3333333333333335
+      "points_per_match": 3.3333333333333335
     },
     {
       "can_transact": true,
@@ -41486,7 +41486,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -41599,7 +41599,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -41712,7 +41712,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -41825,7 +41825,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -41938,7 +41938,7 @@
       "xA": 0.35,
       "value_change": 0,
       "value": 5.7,
-      "points_per_million": 11.403508771929824
+      "points_per_match": 11.403508771929824
     },
     {
       "can_transact": true,
@@ -42051,7 +42051,7 @@
       "xA": 0.15,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 9.2
+      "points_per_match": 9.2
     },
     {
       "can_transact": true,
@@ -42164,7 +42164,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -42277,7 +42277,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -42397,7 +42397,7 @@
       "xA": 3.37,
       "value_change": 0,
       "value": 6.3,
-      "points_per_million": 12.53968253968254
+      "points_per_match": 12.53968253968254
     },
     {
       "can_transact": true,
@@ -42510,7 +42510,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -42623,7 +42623,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -42736,7 +42736,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -42849,7 +42849,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -42962,7 +42962,7 @@
       "xA": 0.14,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 3.207547169811321
+      "points_per_match": 3.207547169811321
     },
     {
       "can_transact": true,
@@ -43075,7 +43075,7 @@
       "xA": 0.17,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 3.2
+      "points_per_match": 3.2
     },
     {
       "can_transact": true,
@@ -43188,7 +43188,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -43301,7 +43301,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 14.693877551020407
+      "points_per_match": 14.693877551020407
     },
     {
       "can_transact": true,
@@ -43414,7 +43414,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -43527,7 +43527,7 @@
       "xA": 1.11,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 6.73469387755102
+      "points_per_match": 6.73469387755102
     },
     {
       "can_transact": true,
@@ -43640,7 +43640,7 @@
       "xA": 1.53,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 19.77777777777778
+      "points_per_match": 19.77777777777778
     },
     {
       "can_transact": true,
@@ -43753,7 +43753,7 @@
       "xA": 0.18,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 12.954545454545453
+      "points_per_match": 12.954545454545453
     },
     {
       "can_transact": true,
@@ -43866,7 +43866,7 @@
       "xA": 0.51,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 6.511627906976744
+      "points_per_match": 6.511627906976744
     },
     {
       "can_transact": true,
@@ -43979,7 +43979,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 2.3255813953488373
+      "points_per_match": 2.3255813953488373
     },
     {
       "can_transact": true,
@@ -44092,7 +44092,7 @@
       "xA": 0.53,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 8.604651162790699
+      "points_per_match": 8.604651162790699
     },
     {
       "can_transact": true,
@@ -44205,7 +44205,7 @@
       "xA": 1.1,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 14.88888888888889
+      "points_per_match": 14.88888888888889
     },
     {
       "can_transact": true,
@@ -44318,7 +44318,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -44431,7 +44431,7 @@
       "xA": 3.14,
       "value_change": 0,
       "value": 6.3,
-      "points_per_million": 10.476190476190476
+      "points_per_match": 10.476190476190476
     },
     {
       "can_transact": true,
@@ -44544,7 +44544,7 @@
       "xA": 0.9,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 10.535714285714286
+      "points_per_match": 10.535714285714286
     },
     {
       "can_transact": true,
@@ -44657,7 +44657,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -44770,7 +44770,7 @@
       "xA": 1.67,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 13.148148148148147
+      "points_per_match": 13.148148148148147
     },
     {
       "can_transact": true,
@@ -44883,7 +44883,7 @@
       "xA": 3.69,
       "value_change": 0,
       "value": 6.0,
-      "points_per_million": 20.0
+      "points_per_match": 20.0
     },
     {
       "can_transact": true,
@@ -44996,7 +44996,7 @@
       "xA": 1.06,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 12.857142857142856
+      "points_per_match": 12.857142857142856
     },
     {
       "can_transact": true,
@@ -45109,7 +45109,7 @@
       "xA": 0.28,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 5.0
+      "points_per_match": 5.0
     },
     {
       "can_transact": true,
@@ -45222,7 +45222,7 @@
       "xA": 1.35,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 10.204081632653061
+      "points_per_match": 10.204081632653061
     },
     {
       "can_transact": true,
@@ -45335,7 +45335,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -45448,7 +45448,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -45561,7 +45561,7 @@
       "xA": 0.42,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 8.409090909090908
+      "points_per_match": 8.409090909090908
     },
     {
       "can_transact": true,
@@ -45674,7 +45674,7 @@
       "xA": 0.24,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 2.7906976744186047
+      "points_per_match": 2.7906976744186047
     },
     {
       "can_transact": true,
@@ -45787,7 +45787,7 @@
       "xA": 0.7,
       "value_change": 0,
       "value": 6.1,
-      "points_per_million": 13.606557377049182
+      "points_per_match": 13.606557377049182
     },
     {
       "can_transact": true,
@@ -45900,7 +45900,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 3.5849056603773586
+      "points_per_match": 3.5849056603773586
     },
     {
       "can_transact": true,
@@ -46013,7 +46013,7 @@
       "xA": 1.15,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 3.9215686274509807
+      "points_per_match": 3.9215686274509807
     },
     {
       "can_transact": true,
@@ -46126,7 +46126,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -46239,7 +46239,7 @@
       "xA": 2.55,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 8.867924528301888
+      "points_per_match": 8.867924528301888
     },
     {
       "can_transact": true,
@@ -46352,7 +46352,7 @@
       "xA": 1.38,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 7.241379310344827
+      "points_per_match": 7.241379310344827
     },
     {
       "can_transact": true,
@@ -46465,7 +46465,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.8888888888888888
+      "points_per_match": 0.8888888888888888
     },
     {
       "can_transact": true,
@@ -46578,7 +46578,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -46691,7 +46691,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -46811,7 +46811,7 @@
       "xA": 0.1,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 0.4347826086956522
+      "points_per_match": 0.4347826086956522
     },
     {
       "can_transact": true,
@@ -46924,7 +46924,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.1,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -47037,7 +47037,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -47150,7 +47150,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 5.897435897435898
+      "points_per_match": 5.897435897435898
     },
     {
       "can_transact": true,
@@ -47263,7 +47263,7 @@
       "xA": 1.12,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 14.772727272727272
+      "points_per_match": 14.772727272727272
     },
     {
       "can_transact": true,
@@ -47376,7 +47376,7 @@
       "xA": 0.48,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 17.209302325581397
+      "points_per_match": 17.209302325581397
     },
     {
       "can_transact": true,
@@ -47489,7 +47489,7 @@
       "xA": 0.5,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 11.794871794871796
+      "points_per_match": 11.794871794871796
     },
     {
       "can_transact": true,
@@ -47602,7 +47602,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 4.473684210526316
+      "points_per_match": 4.473684210526316
     },
     {
       "can_transact": true,
@@ -47715,7 +47715,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.2631578947368421
+      "points_per_match": 0.2631578947368421
     },
     {
       "can_transact": true,
@@ -47828,7 +47828,7 @@
       "xA": 1.99,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 14.73684210526316
+      "points_per_match": 14.73684210526316
     },
     {
       "can_transact": true,
@@ -47941,7 +47941,7 @@
       "xA": 0.25,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 19.743589743589745
+      "points_per_match": 19.743589743589745
     },
     {
       "can_transact": true,
@@ -48054,7 +48054,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -48167,7 +48167,7 @@
       "xA": 2.83,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 18.148148148148145
+      "points_per_match": 18.148148148148145
     },
     {
       "can_transact": true,
@@ -48280,7 +48280,7 @@
       "xA": 0.54,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 4.038461538461538
+      "points_per_match": 4.038461538461538
     },
     {
       "can_transact": true,
@@ -48393,7 +48393,7 @@
       "xA": 0.23,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 2.3529411764705883
+      "points_per_match": 2.3529411764705883
     },
     {
       "can_transact": true,
@@ -48506,7 +48506,7 @@
       "xA": 0.57,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 2.8846153846153846
+      "points_per_match": 2.8846153846153846
     },
     {
       "can_transact": true,
@@ -48619,7 +48619,7 @@
       "xA": 1.34,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 15.918367346938775
+      "points_per_match": 15.918367346938775
     },
     {
       "can_transact": true,
@@ -48732,7 +48732,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -48845,7 +48845,7 @@
       "xA": 0.78,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 10.0
+      "points_per_match": 10.0
     },
     {
       "can_transact": true,
@@ -48958,7 +48958,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -49071,7 +49071,7 @@
       "xA": 0.61,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 8.958333333333334
+      "points_per_match": 8.958333333333334
     },
     {
       "can_transact": true,
@@ -49184,7 +49184,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -49297,7 +49297,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -49410,7 +49410,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -49523,7 +49523,7 @@
       "xA": 0.08,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 2.4489795918367343
+      "points_per_match": 2.4489795918367343
     },
     {
       "can_transact": true,
@@ -49636,7 +49636,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -49749,7 +49749,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -49862,7 +49862,7 @@
       "xA": 0.81,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 12.0
+      "points_per_match": 12.0
     },
     {
       "can_transact": true,
@@ -49975,7 +49975,7 @@
       "xA": 1.29,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 8.958333333333334
+      "points_per_match": 8.958333333333334
     },
     {
       "can_transact": true,
@@ -50088,7 +50088,7 @@
       "xA": 3.29,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 20.638297872340424
+      "points_per_match": 20.638297872340424
     },
     {
       "can_transact": true,
@@ -50201,7 +50201,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 9.555555555555555
+      "points_per_match": 9.555555555555555
     },
     {
       "can_transact": true,
@@ -50314,7 +50314,7 @@
       "xA": 0.92,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 17.28813559322034
+      "points_per_match": 17.28813559322034
     },
     {
       "can_transact": true,
@@ -50427,7 +50427,7 @@
       "xA": 0.98,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 12.181818181818182
+      "points_per_match": 12.181818181818182
     },
     {
       "can_transact": true,
@@ -50540,7 +50540,7 @@
       "xA": 0.78,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 11.025641025641026
+      "points_per_match": 11.025641025641026
     },
     {
       "can_transact": true,
@@ -50653,7 +50653,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -50766,7 +50766,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -50879,7 +50879,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 13.888888888888888
+      "points_per_match": 13.888888888888888
     },
     {
       "can_transact": true,
@@ -50992,7 +50992,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.1,
-      "points_per_million": 4.634146341463415
+      "points_per_match": 4.634146341463415
     },
     {
       "can_transact": true,
@@ -51105,7 +51105,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -51218,7 +51218,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -51331,7 +51331,7 @@
       "xA": 1.02,
       "value_change": 0,
       "value": 5.7,
-      "points_per_million": 5.964912280701754
+      "points_per_match": 5.964912280701754
     },
     {
       "can_transact": true,
@@ -51444,7 +51444,7 @@
       "xA": 0.61,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 10.535714285714286
+      "points_per_match": 10.535714285714286
     },
     {
       "can_transact": true,
@@ -51557,7 +51557,7 @@
       "xA": 0.91,
       "value_change": 0,
       "value": 5.7,
-      "points_per_million": 5.7894736842105265
+      "points_per_match": 5.7894736842105265
     },
     {
       "can_transact": true,
@@ -51670,7 +51670,7 @@
       "xA": 0.76,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 18.813559322033896
+      "points_per_match": 18.813559322033896
     },
     {
       "can_transact": true,
@@ -51783,7 +51783,7 @@
       "xA": 0.85,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 18.333333333333332
+      "points_per_match": 18.333333333333332
     },
     {
       "can_transact": true,
@@ -51896,7 +51896,7 @@
       "xA": 0.84,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 8.571428571428571
+      "points_per_match": 8.571428571428571
     },
     {
       "can_transact": true,
@@ -52009,7 +52009,7 @@
       "xA": 0.54,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 5.3061224489795915
+      "points_per_match": 5.3061224489795915
     },
     {
       "can_transact": true,
@@ -52122,7 +52122,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -52235,7 +52235,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.7,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -52348,7 +52348,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.7,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -52461,7 +52461,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -52574,7 +52574,7 @@
       "xA": 3.75,
       "value_change": 0,
       "value": 14.0,
-      "points_per_million": 5.857142857142857
+      "points_per_match": 5.857142857142857
     },
     {
       "can_transact": true,
@@ -52687,7 +52687,7 @@
       "xA": 4.1,
       "value_change": 0,
       "value": 8.4,
-      "points_per_million": 11.904761904761905
+      "points_per_match": 11.904761904761905
     },
     {
       "can_transact": true,
@@ -52800,7 +52800,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 8.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -52913,7 +52913,7 @@
       "xA": 4.08,
       "value_change": 0,
       "value": 7.3,
-      "points_per_million": 12.191780821917808
+      "points_per_match": 12.191780821917808
     },
     {
       "can_transact": true,
@@ -53026,7 +53026,7 @@
       "xA": 0.5,
       "value_change": 0,
       "value": 6.3,
-      "points_per_million": 4.920634920634921
+      "points_per_match": 4.920634920634921
     },
     {
       "can_transact": true,
@@ -53139,7 +53139,7 @@
       "xA": 1.16,
       "value_change": 0,
       "value": 6.2,
-      "points_per_million": 8.387096774193548
+      "points_per_match": 8.387096774193548
     },
     {
       "can_transact": true,
@@ -53252,7 +53252,7 @@
       "xA": 3.76,
       "value_change": 0,
       "value": 6.7,
-      "points_per_million": 14.477611940298507
+      "points_per_match": 14.477611940298507
     },
     {
       "can_transact": true,
@@ -53365,7 +53365,7 @@
       "xA": 2.24,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 7.962962962962963
+      "points_per_match": 7.962962962962963
     },
     {
       "can_transact": true,
@@ -53478,7 +53478,7 @@
       "xA": 1.76,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 20.181818181818183
+      "points_per_match": 20.181818181818183
     },
     {
       "can_transact": true,
@@ -53591,7 +53591,7 @@
       "xA": 0.05,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 2.4489795918367343
+      "points_per_match": 2.4489795918367343
     },
     {
       "can_transact": true,
@@ -53704,7 +53704,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -53817,7 +53817,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -53930,7 +53930,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -54043,7 +54043,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.46511627906976744
+      "points_per_match": 0.46511627906976744
     },
     {
       "can_transact": true,
@@ -54156,7 +54156,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 6.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -54269,7 +54269,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -54382,7 +54382,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 10.3,
-      "points_per_million": 2.815533980582524
+      "points_per_match": 2.815533980582524
     },
     {
       "can_transact": true,
@@ -54495,7 +54495,7 @@
       "xA": 1.88,
       "value_change": 0,
       "value": 8.9,
-      "points_per_million": 11.685393258426966
+      "points_per_match": 11.685393258426966
     },
     {
       "can_transact": true,
@@ -54608,7 +54608,7 @@
       "xA": 0.35,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 3.0232558139534884
+      "points_per_match": 3.0232558139534884
     },
     {
       "can_transact": true,
@@ -54721,7 +54721,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -54834,7 +54834,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -54947,7 +54947,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -55067,7 +55067,7 @@
       "xA": 2.2,
       "value_change": 0,
       "value": 7.9,
-      "points_per_million": 19.367088607594937
+      "points_per_match": 19.367088607594937
     },
     {
       "can_transact": true,
@@ -55187,7 +55187,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 2.4444444444444446
+      "points_per_match": 2.4444444444444446
     },
     {
       "can_transact": true,
@@ -55307,7 +55307,7 @@
       "xA": 1.84,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 23.846153846153847
+      "points_per_match": 23.846153846153847
     },
     {
       "can_transact": true,
@@ -55427,7 +55427,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -55547,7 +55547,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -55667,7 +55667,7 @@
       "xA": 0.71,
       "value_change": 0,
       "value": 5.7,
-      "points_per_million": 4.56140350877193
+      "points_per_match": 4.56140350877193
     },
     {
       "can_transact": true,
@@ -55787,7 +55787,7 @@
       "xA": 0.64,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 13.050847457627118
+      "points_per_match": 13.050847457627118
     },
     {
       "can_transact": true,
@@ -55907,7 +55907,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -56027,7 +56027,7 @@
       "xA": 0.44,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 4.90566037735849
+      "points_per_match": 4.90566037735849
     },
     {
       "can_transact": true,
@@ -56147,7 +56147,7 @@
       "xA": 0.1,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 5.7407407407407405
+      "points_per_match": 5.7407407407407405
     },
     {
       "can_transact": true,
@@ -56267,7 +56267,7 @@
       "xA": 1.41,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 21.296296296296294
+      "points_per_match": 21.296296296296294
     },
     {
       "can_transact": true,
@@ -56387,7 +56387,7 @@
       "xA": 0.5,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 18.545454545454547
+      "points_per_match": 18.545454545454547
     },
     {
       "can_transact": true,
@@ -56507,7 +56507,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 2.222222222222222
+      "points_per_match": 2.222222222222222
     },
     {
       "can_transact": true,
@@ -56627,7 +56627,7 @@
       "xA": 1.31,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 4.130434782608696
+      "points_per_match": 4.130434782608696
     },
     {
       "can_transact": true,
@@ -56747,7 +56747,7 @@
       "xA": 1.55,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 20.408163265306122
+      "points_per_match": 20.408163265306122
     },
     {
       "can_transact": true,
@@ -56867,7 +56867,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -56987,7 +56987,7 @@
       "xA": 0.58,
       "value_change": 0,
       "value": 8.3,
-      "points_per_million": 3.614457831325301
+      "points_per_match": 3.614457831325301
     },
     {
       "can_transact": true,
@@ -57107,7 +57107,7 @@
       "xA": 3.59,
       "value_change": 0,
       "value": 8.2,
-      "points_per_million": 13.170731707317074
+      "points_per_match": 13.170731707317074
     },
     {
       "can_transact": true,
@@ -57227,7 +57227,7 @@
       "xA": 1.18,
       "value_change": 0,
       "value": 6.9,
-      "points_per_million": 3.7681159420289854
+      "points_per_match": 3.7681159420289854
     },
     {
       "can_transact": true,
@@ -57347,7 +57347,7 @@
       "xA": 2.72,
       "value_change": 0,
       "value": 6.2,
-      "points_per_million": 10.64516129032258
+      "points_per_match": 10.64516129032258
     },
     {
       "can_transact": true,
@@ -57467,7 +57467,7 @@
       "xA": 5.79,
       "value_change": 0,
       "value": 6.5,
-      "points_per_million": 13.846153846153847
+      "points_per_match": 13.846153846153847
     },
     {
       "can_transact": true,
@@ -57587,7 +57587,7 @@
       "xA": 4.25,
       "value_change": 0,
       "value": 6.4,
-      "points_per_million": 11.25
+      "points_per_match": 11.25
     },
     {
       "can_transact": true,
@@ -57707,7 +57707,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 6.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -57827,7 +57827,7 @@
       "xA": 1.19,
       "value_change": 0,
       "value": 6.3,
-      "points_per_million": 5.555555555555555
+      "points_per_match": 5.555555555555555
     },
     {
       "can_transact": true,
@@ -57947,7 +57947,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 0.1724137931034483
+      "points_per_match": 0.1724137931034483
     },
     {
       "can_transact": true,
@@ -58067,7 +58067,7 @@
       "xA": 1.0,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 9.322033898305085
+      "points_per_match": 9.322033898305085
     },
     {
       "can_transact": true,
@@ -58187,7 +58187,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -58307,7 +58307,7 @@
       "xA": 1.99,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 16.47058823529412
+      "points_per_match": 16.47058823529412
     },
     {
       "can_transact": true,
@@ -58427,7 +58427,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -58547,7 +58547,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -58667,7 +58667,7 @@
       "xA": 1.64,
       "value_change": 0,
       "value": 14.9,
-      "points_per_million": 12.550335570469798
+      "points_per_match": 12.550335570469798
     },
     {
       "can_transact": true,
@@ -58787,7 +58787,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 16.25
+      "points_per_match": 16.25
     },
     {
       "can_transact": true,
@@ -58907,7 +58907,7 @@
       "xA": 0.21,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.45454545454545453
+      "points_per_match": 0.45454545454545453
     },
     {
       "can_transact": true,
@@ -59027,7 +59027,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -59147,7 +59147,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -59267,7 +59267,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -59387,7 +59387,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -59507,7 +59507,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 4.1,
-      "points_per_million": 1.2195121951219514
+      "points_per_match": 1.2195121951219514
     },
     {
       "can_transact": true,
@@ -59620,7 +59620,7 @@
       "xA": 3.78,
       "value_change": 0,
       "value": 8.6,
-      "points_per_million": 12.674418604651164
+      "points_per_match": 12.674418604651164
     },
     {
       "can_transact": true,
@@ -59733,7 +59733,7 @@
       "xA": 0.05,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 2.3404255319148937
+      "points_per_match": 2.3404255319148937
     },
     {
       "can_transact": true,
@@ -59846,7 +59846,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -59959,7 +59959,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -60072,7 +60072,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -60185,7 +60185,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -60298,7 +60298,7 @@
       "xA": 0.83,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 8.775510204081632
+      "points_per_match": 8.775510204081632
     },
     {
       "can_transact": true,
@@ -60411,7 +60411,7 @@
       "xA": 0.5,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 8.125
+      "points_per_match": 8.125
     },
     {
       "can_transact": true,
@@ -60524,7 +60524,7 @@
       "xA": 0.23,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 4.081632653061225
+      "points_per_match": 4.081632653061225
     },
     {
       "can_transact": true,
@@ -60637,7 +60637,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -60750,7 +60750,7 @@
       "xA": 1.95,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 19.11111111111111
+      "points_per_match": 19.11111111111111
     },
     {
       "can_transact": true,
@@ -60863,7 +60863,7 @@
       "xA": 1.42,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 17.209302325581397
+      "points_per_match": 17.209302325581397
     },
     {
       "can_transact": true,
@@ -60976,7 +60976,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 12.093023255813954
+      "points_per_match": 12.093023255813954
     },
     {
       "can_transact": true,
@@ -61089,7 +61089,7 @@
       "xA": 1.45,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 13.777777777777779
+      "points_per_match": 13.777777777777779
     },
     {
       "can_transact": true,
@@ -61202,7 +61202,7 @@
       "xA": 0.25,
       "value_change": 0,
       "value": 4.1,
-      "points_per_million": 9.02439024390244
+      "points_per_match": 9.02439024390244
     },
     {
       "can_transact": true,
@@ -61315,7 +61315,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -61428,7 +61428,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.2631578947368421
+      "points_per_match": 0.2631578947368421
     },
     {
       "can_transact": true,
@@ -61541,7 +61541,7 @@
       "xA": 0.17,
       "value_change": 0,
       "value": 3.7,
-      "points_per_million": 7.027027027027026
+      "points_per_match": 7.027027027027026
     },
     {
       "can_transact": true,
@@ -61654,7 +61654,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.2631578947368421
+      "points_per_match": 0.2631578947368421
     },
     {
       "can_transact": true,
@@ -61767,7 +61767,7 @@
       "xA": 6.7,
       "value_change": 0,
       "value": 9.8,
-      "points_per_million": 14.591836734693876
+      "points_per_match": 14.591836734693876
     },
     {
       "can_transact": true,
@@ -61880,7 +61880,7 @@
       "xA": 2.3,
       "value_change": 0,
       "value": 8.1,
-      "points_per_million": 11.481481481481483
+      "points_per_match": 11.481481481481483
     },
     {
       "can_transact": true,
@@ -61993,7 +61993,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 7.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -62106,7 +62106,7 @@
       "xA": 3.23,
       "value_change": 0,
       "value": 6.2,
-      "points_per_million": 10.806451612903226
+      "points_per_match": 10.806451612903226
     },
     {
       "can_transact": true,
@@ -62219,7 +62219,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -62332,7 +62332,7 @@
       "xA": 1.4,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 7.796610169491525
+      "points_per_match": 7.796610169491525
     },
     {
       "can_transact": true,
@@ -62445,7 +62445,7 @@
       "xA": 2.42,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 19.642857142857142
+      "points_per_match": 19.642857142857142
     },
     {
       "can_transact": true,
@@ -62558,7 +62558,7 @@
       "xA": 0.56,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 6.9565217391304355
+      "points_per_match": 6.9565217391304355
     },
     {
       "can_transact": true,
@@ -62671,7 +62671,7 @@
       "xA": 0.15,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 6.595744680851063
+      "points_per_match": 6.595744680851063
     },
     {
       "can_transact": true,
@@ -62784,7 +62784,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -62897,7 +62897,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -63010,7 +63010,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.6976744186046512
+      "points_per_match": 0.6976744186046512
     },
     {
       "can_transact": true,
@@ -63123,7 +63123,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -63236,7 +63236,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -63349,7 +63349,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 6.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -63462,7 +63462,7 @@
       "xA": 0.29,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 6.0344827586206895
+      "points_per_match": 6.0344827586206895
     },
     {
       "can_transact": true,
@@ -63575,7 +63575,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -63688,7 +63688,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -63801,7 +63801,7 @@
       "xA": 0.2,
       "value_change": 0,
       "value": 7.2,
-      "points_per_million": 9.86111111111111
+      "points_per_match": 9.86111111111111
     },
     {
       "can_transact": true,
@@ -63914,7 +63914,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 11.8
+      "points_per_match": 11.8
     },
     {
       "can_transact": true,
@@ -64027,7 +64027,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.4444444444444444
+      "points_per_match": 0.4444444444444444
     },
     {
       "can_transact": true,
@@ -64140,7 +64140,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.2222222222222222
+      "points_per_match": 0.2222222222222222
     },
     {
       "can_transact": true,
@@ -64253,7 +64253,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.22727272727272727
+      "points_per_match": 0.22727272727272727
     },
     {
       "can_transact": true,
@@ -64366,7 +64366,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -64479,7 +64479,7 @@
       "xA": 0.68,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 4.528301886792453
+      "points_per_match": 4.528301886792453
     },
     {
       "can_transact": true,
@@ -64592,7 +64592,7 @@
       "xA": 0.53,
       "value_change": 0,
       "value": 7.3,
-      "points_per_million": 2.4657534246575343
+      "points_per_match": 2.4657534246575343
     },
     {
       "can_transact": true,
@@ -64705,7 +64705,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 15.490196078431374
+      "points_per_match": 15.490196078431374
     },
     {
       "can_transact": true,
@@ -64818,7 +64818,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -64931,7 +64931,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -65044,7 +65044,7 @@
       "xA": 1.8,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 10.566037735849058
+      "points_per_match": 10.566037735849058
     },
     {
       "can_transact": true,
@@ -65157,7 +65157,7 @@
       "xA": 0.6,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 9.807692307692307
+      "points_per_match": 9.807692307692307
     },
     {
       "can_transact": true,
@@ -65270,7 +65270,7 @@
       "xA": 0.28,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 10.816326530612244
+      "points_per_match": 10.816326530612244
     },
     {
       "can_transact": true,
@@ -65383,7 +65383,7 @@
       "xA": 0.31,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 14.0
+      "points_per_match": 14.0
     },
     {
       "can_transact": true,
@@ -65496,7 +65496,7 @@
       "xA": 0.57,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 10.0
+      "points_per_match": 10.0
     },
     {
       "can_transact": true,
@@ -65609,7 +65609,7 @@
       "xA": 1.66,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 8.36734693877551
+      "points_per_match": 8.36734693877551
     },
     {
       "can_transact": true,
@@ -65722,7 +65722,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -65835,7 +65835,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.23255813953488372
+      "points_per_match": 0.23255813953488372
     },
     {
       "can_transact": true,
@@ -65948,7 +65948,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.2631578947368421
+      "points_per_match": 0.2631578947368421
     },
     {
       "can_transact": true,
@@ -66061,7 +66061,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -66174,7 +66174,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -66287,7 +66287,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -66400,7 +66400,7 @@
       "xA": 3.13,
       "value_change": 0,
       "value": 7.2,
-      "points_per_million": 9.166666666666666
+      "points_per_match": 9.166666666666666
     },
     {
       "can_transact": true,
@@ -66513,7 +66513,7 @@
       "xA": 1.34,
       "value_change": 0,
       "value": 6.5,
-      "points_per_million": 5.230769230769231
+      "points_per_match": 5.230769230769231
     },
     {
       "can_transact": true,
@@ -66626,7 +66626,7 @@
       "xA": 1.99,
       "value_change": 0,
       "value": 6.1,
-      "points_per_million": 12.459016393442624
+      "points_per_match": 12.459016393442624
     },
     {
       "can_transact": true,
@@ -66739,7 +66739,7 @@
       "xA": 3.62,
       "value_change": 0,
       "value": 7.0,
-      "points_per_million": 19.142857142857142
+      "points_per_match": 19.142857142857142
     },
     {
       "can_transact": true,
@@ -66852,7 +66852,7 @@
       "xA": 2.34,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 8.983050847457626
+      "points_per_match": 8.983050847457626
     },
     {
       "can_transact": true,
@@ -66965,7 +66965,7 @@
       "xA": 0.97,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 9.491525423728813
+      "points_per_match": 9.491525423728813
     },
     {
       "can_transact": true,
@@ -67078,7 +67078,7 @@
       "xA": 1.6,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 11.50943396226415
+      "points_per_match": 11.50943396226415
     },
     {
       "can_transact": true,
@@ -67191,7 +67191,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -67304,7 +67304,7 @@
       "xA": 0.34,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 4.0
+      "points_per_match": 4.0
     },
     {
       "can_transact": true,
@@ -67417,7 +67417,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -67530,7 +67530,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -67643,7 +67643,7 @@
       "xA": 2.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 12.88888888888889
+      "points_per_match": 12.88888888888889
     },
     {
       "can_transact": true,
@@ -67756,7 +67756,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -67869,7 +67869,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 3.888888888888889
+      "points_per_match": 3.888888888888889
     },
     {
       "can_transact": true,
@@ -67982,7 +67982,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -68095,7 +68095,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 2.291666666666667
+      "points_per_match": 2.291666666666667
     },
     {
       "can_transact": true,
@@ -68208,7 +68208,7 @@
       "xA": 0.73,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 19.4
+      "points_per_match": 19.4
     },
     {
       "can_transact": true,
@@ -68321,7 +68321,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -68434,7 +68434,7 @@
       "xA": 0.77,
       "value_change": 0,
       "value": 6.9,
-      "points_per_million": 12.17391304347826
+      "points_per_match": 12.17391304347826
     },
     {
       "can_transact": true,
@@ -68547,7 +68547,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -68660,7 +68660,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -68773,7 +68773,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -68886,7 +68886,7 @@
       "xA": 0.36,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 1.4285714285714284
+      "points_per_match": 1.4285714285714284
     },
     {
       "can_transact": true,
@@ -68999,7 +68999,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 1.702127659574468
+      "points_per_match": 1.702127659574468
     },
     {
       "can_transact": true,
@@ -69112,7 +69112,7 @@
       "xA": 0.17,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 1.2
+      "points_per_match": 1.2
     },
     {
       "can_transact": true,
@@ -69225,7 +69225,7 @@
       "xA": 0.06,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 13.260869565217392
+      "points_per_match": 13.260869565217392
     },
     {
       "can_transact": true,
@@ -69338,7 +69338,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -69451,7 +69451,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -69564,7 +69564,7 @@
       "xA": 0.41,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 14.901960784313726
+      "points_per_match": 14.901960784313726
     },
     {
       "can_transact": true,
@@ -69677,7 +69677,7 @@
       "xA": 0.43,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 12.307692307692307
+      "points_per_match": 12.307692307692307
     },
     {
       "can_transact": true,
@@ -69790,7 +69790,7 @@
       "xA": 0.62,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 7.446808510638298
+      "points_per_match": 7.446808510638298
     },
     {
       "can_transact": true,
@@ -69903,7 +69903,7 @@
       "xA": 2.87,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 16.80851063829787
+      "points_per_match": 16.80851063829787
     },
     {
       "can_transact": true,
@@ -70016,7 +70016,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -70129,7 +70129,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.7142857142857143
+      "points_per_match": 0.7142857142857143
     },
     {
       "can_transact": true,
@@ -70242,7 +70242,7 @@
       "xA": 0.08,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 7.906976744186047
+      "points_per_match": 7.906976744186047
     },
     {
       "can_transact": true,
@@ -70355,7 +70355,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -70468,7 +70468,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.5263157894736842
+      "points_per_match": 0.5263157894736842
     },
     {
       "can_transact": true,
@@ -70581,7 +70581,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -70694,7 +70694,7 @@
       "xA": 2.0,
       "value_change": 0,
       "value": 7.3,
-      "points_per_million": 14.10958904109589
+      "points_per_match": 14.10958904109589
     },
     {
       "can_transact": true,
@@ -70807,7 +70807,7 @@
       "xA": 1.97,
       "value_change": 0,
       "value": 5.7,
-      "points_per_million": 11.403508771929824
+      "points_per_match": 11.403508771929824
     },
     {
       "can_transact": true,
@@ -70920,7 +70920,7 @@
       "xA": 2.89,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 20.925925925925924
+      "points_per_match": 20.925925925925924
     },
     {
       "can_transact": true,
@@ -71033,7 +71033,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.18518518518518517
+      "points_per_match": 0.18518518518518517
     },
     {
       "can_transact": true,
@@ -71146,7 +71146,7 @@
       "xA": 0.39,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 6.6
+      "points_per_match": 6.6
     },
     {
       "can_transact": true,
@@ -71259,7 +71259,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -71372,7 +71372,7 @@
       "xA": 1.31,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 12.448979591836734
+      "points_per_match": 12.448979591836734
     },
     {
       "can_transact": true,
@@ -71485,7 +71485,7 @@
       "xA": 0.19,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 3.6170212765957444
+      "points_per_match": 3.6170212765957444
     },
     {
       "can_transact": true,
@@ -71598,7 +71598,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -71711,7 +71711,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -71824,7 +71824,7 @@
       "xA": 0.11,
       "value_change": 0,
       "value": 7.2,
-      "points_per_million": 3.4722222222222223
+      "points_per_match": 3.4722222222222223
     },
     {
       "can_transact": true,
@@ -71937,7 +71937,7 @@
       "xA": 0.85,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 10.172413793103448
+      "points_per_match": 10.172413793103448
     },
     {
       "can_transact": true,
@@ -72050,7 +72050,7 @@
       "xA": 0.39,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 2.5
+      "points_per_match": 2.5
     },
     {
       "can_transact": true,
@@ -72163,7 +72163,7 @@
       "xA": 1.5,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 8.181818181818182
+      "points_per_match": 8.181818181818182
     },
     {
       "can_transact": true,
@@ -72276,7 +72276,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.25
+      "points_per_match": 0.25
     },
     {
       "can_transact": true,
@@ -72389,7 +72389,7 @@
       "xA": 2.93,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 10.37037037037037
+      "points_per_match": 10.37037037037037
     },
     {
       "can_transact": true,
@@ -72502,7 +72502,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 6.0,
-      "points_per_million": 1.5
+      "points_per_match": 1.5
     },
     {
       "can_transact": true,
@@ -72615,7 +72615,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 2.75
+      "points_per_match": 2.75
     },
     {
       "can_transact": true,
@@ -72728,7 +72728,7 @@
       "xA": 0.45,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 8.666666666666666
+      "points_per_match": 8.666666666666666
     },
     {
       "can_transact": true,
@@ -72841,7 +72841,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -72954,7 +72954,7 @@
       "xA": 0.68,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 2.0338983050847457
+      "points_per_match": 2.0338983050847457
     },
     {
       "can_transact": true,
@@ -73067,7 +73067,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 1.2727272727272727
+      "points_per_match": 1.2727272727272727
     },
     {
       "can_transact": true,
@@ -73180,7 +73180,7 @@
       "xA": 0.36,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.2222222222222222
+      "points_per_match": 0.2222222222222222
     },
     {
       "can_transact": true,
@@ -73293,7 +73293,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -73406,7 +73406,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -73519,7 +73519,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -73632,7 +73632,7 @@
       "xA": 0.51,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 21.086956521739133
+      "points_per_match": 21.086956521739133
     },
     {
       "can_transact": true,
@@ -73745,7 +73745,7 @@
       "xA": 0.97,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 16.444444444444443
+      "points_per_match": 16.444444444444443
     },
     {
       "can_transact": true,
@@ -73858,7 +73858,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -73971,7 +73971,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -74084,7 +74084,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 3.25
+      "points_per_match": 3.25
     },
     {
       "can_transact": true,
@@ -74197,7 +74197,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -74310,7 +74310,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -74423,7 +74423,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -74536,7 +74536,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.5
+      "points_per_match": 0.5
     },
     {
       "can_transact": true,
@@ -74649,7 +74649,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -74762,7 +74762,7 @@
       "xA": 0.46,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 13.421052631578949
+      "points_per_match": 13.421052631578949
     },
     {
       "can_transact": true,
@@ -74875,7 +74875,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.5
+      "points_per_match": 0.5
     },
     {
       "can_transact": true,
@@ -74988,7 +74988,7 @@
       "xA": 0.62,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 6.938775510204081
+      "points_per_match": 6.938775510204081
     },
     {
       "can_transact": true,
@@ -75101,7 +75101,7 @@
       "xA": 0.4,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 5.660377358490567
+      "points_per_match": 5.660377358490567
     },
     {
       "can_transact": true,
@@ -75214,7 +75214,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.18518518518518517
+      "points_per_match": 0.18518518518518517
     },
     {
       "can_transact": true,
@@ -75327,7 +75327,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -75440,7 +75440,7 @@
       "xA": 2.75,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 18.36734693877551
+      "points_per_match": 18.36734693877551
     },
     {
       "can_transact": true,
@@ -75553,7 +75553,7 @@
       "xA": 0.28,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 2.6530612244897958
+      "points_per_match": 2.6530612244897958
     },
     {
       "can_transact": true,
@@ -75666,7 +75666,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 0.625
+      "points_per_match": 0.625
     },
     {
       "can_transact": true,
@@ -75779,7 +75779,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -75892,7 +75892,7 @@
       "xA": 0.35,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 3.1914893617021276
+      "points_per_match": 3.1914893617021276
     },
     {
       "can_transact": true,
@@ -76005,7 +76005,7 @@
       "xA": 0.88,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 10.612244897959183
+      "points_per_match": 10.612244897959183
     },
     {
       "can_transact": true,
@@ -76118,7 +76118,7 @@
       "xA": 0.56,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 12.857142857142856
+      "points_per_match": 12.857142857142856
     },
     {
       "can_transact": true,
@@ -76231,7 +76231,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -76344,7 +76344,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -76457,7 +76457,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -76570,7 +76570,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -76683,7 +76683,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -76796,7 +76796,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -76909,7 +76909,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 10.588235294117649
+      "points_per_match": 10.588235294117649
     },
     {
       "can_transact": true,
@@ -77022,7 +77022,7 @@
       "xA": 0.14,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 5.0
+      "points_per_match": 5.0
     },
     {
       "can_transact": true,
@@ -77135,7 +77135,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -77248,7 +77248,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -77361,7 +77361,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -77474,7 +77474,7 @@
       "xA": 2.19,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 17.647058823529413
+      "points_per_match": 17.647058823529413
     },
     {
       "can_transact": true,
@@ -77587,7 +77587,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 21.83673469387755
+      "points_per_match": 21.83673469387755
     },
     {
       "can_transact": true,
@@ -77700,7 +77700,7 @@
       "xA": 0.08,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.25641025641025644
+      "points_per_match": 0.25641025641025644
     },
     {
       "can_transact": true,
@@ -77813,7 +77813,7 @@
       "xA": 0.75,
       "value_change": 0,
       "value": 4.1,
-      "points_per_million": 21.463414634146343
+      "points_per_match": 21.463414634146343
     },
     {
       "can_transact": true,
@@ -77926,7 +77926,7 @@
       "xA": 2.01,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 24.782608695652176
+      "points_per_match": 24.782608695652176
     },
     {
       "can_transact": true,
@@ -78039,7 +78039,7 @@
       "xA": 0.61,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 7.777777777777778
+      "points_per_match": 7.777777777777778
     },
     {
       "can_transact": true,
@@ -78152,7 +78152,7 @@
       "xA": 0.3,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 11.090909090909092
+      "points_per_match": 11.090909090909092
     },
     {
       "can_transact": true,
@@ -78265,7 +78265,7 @@
       "xA": 0.25,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 5.090909090909091
+      "points_per_match": 5.090909090909091
     },
     {
       "can_transact": true,
@@ -78378,7 +78378,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -78491,7 +78491,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -78604,7 +78604,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -78717,7 +78717,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -78830,7 +78830,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.6
+      "points_per_match": 0.6
     },
     {
       "can_transact": true,
@@ -78943,7 +78943,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 4.7,
-      "points_per_million": 17.659574468085104
+      "points_per_match": 17.659574468085104
     },
     {
       "can_transact": true,
@@ -79056,7 +79056,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -79169,7 +79169,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -79282,7 +79282,7 @@
       "xA": 2.81,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 15.490196078431374
+      "points_per_match": 15.490196078431374
     },
     {
       "can_transact": true,
@@ -79395,7 +79395,7 @@
       "xA": 1.2,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 17.8
+      "points_per_match": 17.8
     },
     {
       "can_transact": true,
@@ -79508,7 +79508,7 @@
       "xA": 0.18,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 6.428571428571428
+      "points_per_match": 6.428571428571428
     },
     {
       "can_transact": true,
@@ -79621,7 +79621,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 2.3255813953488373
+      "points_per_match": 2.3255813953488373
     },
     {
       "can_transact": true,
@@ -79734,7 +79734,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 1.3333333333333333
+      "points_per_match": 1.3333333333333333
     },
     {
       "can_transact": true,
@@ -79847,7 +79847,7 @@
       "xA": 1.38,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 13.095238095238095
+      "points_per_match": 13.095238095238095
     },
     {
       "can_transact": true,
@@ -79960,7 +79960,7 @@
       "xA": 0.51,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 3.488372093023256
+      "points_per_match": 3.488372093023256
     },
     {
       "can_transact": true,
@@ -80073,7 +80073,7 @@
       "xA": 0.34,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 22.22222222222222
+      "points_per_match": 22.22222222222222
     },
     {
       "can_transact": true,
@@ -80186,7 +80186,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -80299,7 +80299,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -80412,7 +80412,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -80525,7 +80525,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 8.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -80638,7 +80638,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 6.8,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -80751,7 +80751,7 @@
       "xA": 2.41,
       "value_change": 0,
       "value": 6.4,
-      "points_per_million": 11.71875
+      "points_per_match": 11.71875
     },
     {
       "can_transact": true,
@@ -80864,7 +80864,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 6.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -80977,7 +80977,7 @@
       "xA": 0.61,
       "value_change": 0,
       "value": 6.2,
-      "points_per_million": 7.741935483870967
+      "points_per_match": 7.741935483870967
     },
     {
       "can_transact": true,
@@ -81090,7 +81090,7 @@
       "xA": 0.68,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 12.075471698113208
+      "points_per_match": 12.075471698113208
     },
     {
       "can_transact": true,
@@ -81203,7 +81203,7 @@
       "xA": 0.39,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 7.5
+      "points_per_match": 7.5
     },
     {
       "can_transact": true,
@@ -81316,7 +81316,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 1.5384615384615383
+      "points_per_match": 1.5384615384615383
     },
     {
       "can_transact": true,
@@ -81429,7 +81429,7 @@
       "xA": 1.21,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 8.679245283018869
+      "points_per_match": 8.679245283018869
     },
     {
       "can_transact": true,
@@ -81542,7 +81542,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -81655,7 +81655,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -81768,7 +81768,7 @@
       "xA": 0.45,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 8.75
+      "points_per_match": 8.75
     },
     {
       "can_transact": true,
@@ -81881,7 +81881,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -81994,7 +81994,7 @@
       "xA": 0.95,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 11.777777777777779
+      "points_per_match": 11.777777777777779
     },
     {
       "can_transact": true,
@@ -82107,7 +82107,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -82220,7 +82220,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -82333,7 +82333,7 @@
       "xA": 0.16,
       "value_change": 0,
       "value": 7.2,
-      "points_per_million": 2.9166666666666665
+      "points_per_match": 2.9166666666666665
     },
     {
       "can_transact": true,
@@ -82446,7 +82446,7 @@
       "xA": 1.22,
       "value_change": 0,
       "value": 6.3,
-      "points_per_million": 11.904761904761905
+      "points_per_match": 11.904761904761905
     },
     {
       "can_transact": true,
@@ -82559,7 +82559,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -82672,7 +82672,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.46511627906976744
+      "points_per_match": 0.46511627906976744
     },
     {
       "can_transact": true,
@@ -82785,7 +82785,7 @@
       "xA": 0.55,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 15.272727272727273
+      "points_per_match": 15.272727272727273
     },
     {
       "can_transact": true,
@@ -82898,7 +82898,7 @@
       "xA": 3.28,
       "value_change": 0,
       "value": 6.5,
-      "points_per_million": 9.076923076923077
+      "points_per_match": 9.076923076923077
     },
     {
       "can_transact": true,
@@ -83011,7 +83011,7 @@
       "xA": 1.11,
       "value_change": 0,
       "value": 6.9,
-      "points_per_million": 4.057971014492753
+      "points_per_match": 4.057971014492753
     },
     {
       "can_transact": true,
@@ -83124,7 +83124,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.25
+      "points_per_match": 0.25
     },
     {
       "can_transact": true,
@@ -83237,7 +83237,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -83350,7 +83350,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -83463,7 +83463,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -83576,7 +83576,7 @@
       "xA": 0.46,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 2.7777777777777777
+      "points_per_match": 2.7777777777777777
     },
     {
       "can_transact": true,
@@ -83689,7 +83689,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.25
+      "points_per_match": 0.25
     },
     {
       "can_transact": true,
@@ -83802,7 +83802,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -83915,7 +83915,7 @@
       "xA": 0.55,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 3.7254901960784315
+      "points_per_match": 3.7254901960784315
     },
     {
       "can_transact": true,
@@ -84028,7 +84028,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 11.86046511627907
+      "points_per_match": 11.86046511627907
     },
     {
       "can_transact": true,
@@ -84141,7 +84141,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -84254,7 +84254,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -84367,7 +84367,7 @@
       "xA": 1.02,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 15.25
+      "points_per_match": 15.25
     },
     {
       "can_transact": true,
@@ -84480,7 +84480,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -84593,7 +84593,7 @@
       "xA": 0.25,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 8.571428571428571
+      "points_per_match": 8.571428571428571
     },
     {
       "can_transact": true,
@@ -84706,7 +84706,7 @@
       "xA": 0.36,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 12.045454545454545
+      "points_per_match": 12.045454545454545
     },
     {
       "can_transact": true,
@@ -84819,7 +84819,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.6818181818181818
+      "points_per_match": 0.6818181818181818
     },
     {
       "can_transact": true,
@@ -84932,7 +84932,7 @@
       "xA": 0.32,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 4.883720930232558
+      "points_per_match": 4.883720930232558
     },
     {
       "can_transact": true,
@@ -85045,7 +85045,7 @@
       "xA": 0.29,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 7.209302325581396
+      "points_per_match": 7.209302325581396
     },
     {
       "can_transact": true,
@@ -85158,7 +85158,7 @@
       "xA": 0.74,
       "value_change": 0,
       "value": 4.1,
-      "points_per_million": 11.707317073170733
+      "points_per_match": 11.707317073170733
     },
     {
       "can_transact": true,
@@ -85271,7 +85271,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -85384,7 +85384,7 @@
       "xA": 2.0,
       "value_change": 0,
       "value": 5.9,
-      "points_per_million": 11.694915254237287
+      "points_per_match": 11.694915254237287
     },
     {
       "can_transact": true,
@@ -85497,7 +85497,7 @@
       "xA": 0.36,
       "value_change": 0,
       "value": 5.7,
-      "points_per_million": 10.701754385964913
+      "points_per_match": 10.701754385964913
     },
     {
       "can_transact": true,
@@ -85610,7 +85610,7 @@
       "xA": 1.18,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 13.75
+      "points_per_match": 13.75
     },
     {
       "can_transact": true,
@@ -85723,7 +85723,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -85836,7 +85836,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -85949,7 +85949,7 @@
       "xA": 0.04,
       "value_change": 0,
       "value": 4.8,
-      "points_per_million": 1.6666666666666667
+      "points_per_match": 1.6666666666666667
     },
     {
       "can_transact": true,
@@ -86062,7 +86062,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 1.0204081632653061
+      "points_per_match": 1.0204081632653061
     },
     {
       "can_transact": true,
@@ -86175,7 +86175,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.2222222222222222
+      "points_per_match": 0.2222222222222222
     },
     {
       "can_transact": true,
@@ -86288,7 +86288,7 @@
       "xA": 0.17,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 2.0930232558139537
+      "points_per_match": 2.0930232558139537
     },
     {
       "can_transact": true,
@@ -86401,7 +86401,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -86514,7 +86514,7 @@
       "xA": 1.05,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 7.727272727272727
+      "points_per_match": 7.727272727272727
     },
     {
       "can_transact": true,
@@ -86627,7 +86627,7 @@
       "xA": 2.45,
       "value_change": 0,
       "value": 7.6,
-      "points_per_million": 15.789473684210527
+      "points_per_match": 15.789473684210527
     },
     {
       "can_transact": true,
@@ -86740,7 +86740,7 @@
       "xA": 0.21,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 2.142857142857143
+      "points_per_match": 2.142857142857143
     },
     {
       "can_transact": true,
@@ -86853,7 +86853,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.46511627906976744
+      "points_per_match": 0.46511627906976744
     },
     {
       "can_transact": true,
@@ -86966,7 +86966,7 @@
       "xA": 0.26,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 7.619047619047619
+      "points_per_match": 7.619047619047619
     },
     {
       "can_transact": true,
@@ -87079,7 +87079,7 @@
       "xA": 0.16,
       "value_change": 0,
       "value": 5.8,
-      "points_per_million": 10.689655172413794
+      "points_per_match": 10.689655172413794
     },
     {
       "can_transact": true,
@@ -87192,7 +87192,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 5.0
+      "points_per_match": 5.0
     },
     {
       "can_transact": true,
@@ -87305,7 +87305,7 @@
       "xA": 1.88,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 17.272727272727273
+      "points_per_match": 17.272727272727273
     },
     {
       "can_transact": true,
@@ -87418,7 +87418,7 @@
       "xA": 0.3,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 6.8
+      "points_per_match": 6.8
     },
     {
       "can_transact": true,
@@ -87531,7 +87531,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -87644,7 +87644,7 @@
       "xA": 0.44,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 1.25
+      "points_per_match": 1.25
     },
     {
       "can_transact": true,
@@ -87757,7 +87757,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -87870,7 +87870,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.6666666666666666
+      "points_per_match": 0.6666666666666666
     },
     {
       "can_transact": true,
@@ -87983,7 +87983,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 1.4545454545454546
+      "points_per_match": 1.4545454545454546
     },
     {
       "can_transact": true,
@@ -88096,7 +88096,7 @@
       "xA": 0.21,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 3.090909090909091
+      "points_per_match": 3.090909090909091
     },
     {
       "can_transact": true,
@@ -88209,7 +88209,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -88322,7 +88322,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 1.7777777777777777
+      "points_per_match": 1.7777777777777777
     },
     {
       "can_transact": true,
@@ -88442,7 +88442,7 @@
       "xA": 0.02,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 4.7727272727272725
+      "points_per_match": 4.7727272727272725
     },
     {
       "can_transact": true,
@@ -88562,7 +88562,7 @@
       "xA": 0.03,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 10.0
+      "points_per_match": 10.0
     },
     {
       "can_transact": true,
@@ -88682,7 +88682,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -88802,7 +88802,7 @@
       "xA": 0.4,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 5.476190476190476
+      "points_per_match": 5.476190476190476
     },
     {
       "can_transact": true,
@@ -88922,7 +88922,7 @@
       "xA": 0.19,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 2.5
+      "points_per_match": 2.5
     },
     {
       "can_transact": true,
@@ -89042,7 +89042,7 @@
       "xA": 2.2,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 12.558139534883722
+      "points_per_match": 12.558139534883722
     },
     {
       "can_transact": true,
@@ -89162,7 +89162,7 @@
       "xA": 0.28,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 7.674418604651163
+      "points_per_match": 7.674418604651163
     },
     {
       "can_transact": true,
@@ -89282,7 +89282,7 @@
       "xA": 0.29,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 4.3181818181818175
+      "points_per_match": 4.3181818181818175
     },
     {
       "can_transact": true,
@@ -89402,7 +89402,7 @@
       "xA": 1.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 13.409090909090908
+      "points_per_match": 13.409090909090908
     },
     {
       "can_transact": true,
@@ -89522,7 +89522,7 @@
       "xA": 0.21,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 4.761904761904762
+      "points_per_match": 4.761904761904762
     },
     {
       "can_transact": true,
@@ -89642,7 +89642,7 @@
       "xA": 0.36,
       "value_change": 0,
       "value": 3.8,
-      "points_per_million": 2.6315789473684212
+      "points_per_match": 2.6315789473684212
     },
     {
       "can_transact": true,
@@ -89762,7 +89762,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -89882,7 +89882,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.75
+      "points_per_match": 0.75
     },
     {
       "can_transact": true,
@@ -90002,7 +90002,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 3.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -90122,7 +90122,7 @@
       "xA": 0.92,
       "value_change": 0,
       "value": 5.6,
-      "points_per_million": 7.857142857142858
+      "points_per_match": 7.857142857142858
     },
     {
       "can_transact": true,
@@ -90242,7 +90242,7 @@
       "xA": 0.67,
       "value_change": 0,
       "value": 5.2,
-      "points_per_million": 10.192307692307692
+      "points_per_match": 10.192307692307692
     },
     {
       "can_transact": true,
@@ -90362,7 +90362,7 @@
       "xA": 0.61,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 5.294117647058824
+      "points_per_match": 5.294117647058824
     },
     {
       "can_transact": true,
@@ -90482,7 +90482,7 @@
       "xA": 0.61,
       "value_change": 0,
       "value": 5.1,
-      "points_per_million": 2.3529411764705883
+      "points_per_match": 2.3529411764705883
     },
     {
       "can_transact": true,
@@ -90602,7 +90602,7 @@
       "xA": 1.32,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 12.641509433962264
+      "points_per_match": 12.641509433962264
     },
     {
       "can_transact": true,
@@ -90722,7 +90722,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -90842,7 +90842,7 @@
       "xA": 0.38,
       "value_change": 0,
       "value": 5.3,
-      "points_per_million": 7.169811320754717
+      "points_per_match": 7.169811320754717
     },
     {
       "can_transact": true,
@@ -90962,7 +90962,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -91082,7 +91082,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.46511627906976744
+      "points_per_match": 0.46511627906976744
     },
     {
       "can_transact": true,
@@ -91202,7 +91202,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -91322,7 +91322,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.3,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -91442,7 +91442,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -91562,7 +91562,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -91682,7 +91682,7 @@
       "xA": 0.01,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 0.2040816326530612
+      "points_per_match": 0.2040816326530612
     },
     {
       "can_transact": true,
@@ -91802,7 +91802,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -91922,7 +91922,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -92042,7 +92042,7 @@
       "xA": 0.62,
       "value_change": 0,
       "value": 4.9,
-      "points_per_million": 9.183673469387754
+      "points_per_match": 9.183673469387754
     },
     {
       "can_transact": true,
@@ -92162,7 +92162,7 @@
       "xA": 0.99,
       "value_change": 0,
       "value": 4.2,
-      "points_per_million": 5.238095238095238
+      "points_per_match": 5.238095238095238
     },
     {
       "can_transact": true,
@@ -92282,7 +92282,7 @@
       "xA": 0.97,
       "value_change": 0,
       "value": 4.4,
-      "points_per_million": 8.181818181818182
+      "points_per_match": 8.181818181818182
     },
     {
       "can_transact": true,
@@ -92402,7 +92402,7 @@
       "xA": 1.27,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 12.222222222222221
+      "points_per_match": 12.222222222222221
     },
     {
       "can_transact": true,
@@ -92522,7 +92522,7 @@
       "xA": 0.31,
       "value_change": 0,
       "value": 5.4,
-      "points_per_million": 8.703703703703702
+      "points_per_match": 8.703703703703702
     },
     {
       "can_transact": true,
@@ -92642,7 +92642,7 @@
       "xA": 1.29,
       "value_change": 0,
       "value": 4.6,
-      "points_per_million": 9.56521739130435
+      "points_per_match": 9.56521739130435
     },
     {
       "can_transact": true,
@@ -92762,7 +92762,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.0,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -92882,7 +92882,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -93002,7 +93002,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -93122,7 +93122,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -93242,7 +93242,7 @@
       "xA": 0.0,
       "value_change": 0,
       "value": 4.5,
-      "points_per_million": 0.0
+      "points_per_match": 0.0
     },
     {
       "can_transact": true,
@@ -93362,7 +93362,7 @@
       "xA": 0.07,
       "value_change": 0,
       "value": 5.0,
-      "points_per_million": 1.0
+      "points_per_match": 1.0
     },
     {
       "can_transact": true,
@@ -93482,7 +93482,7 @@
       "xA": 0.37,
       "value_change": 0,
       "value": 5.5,
-      "points_per_million": 1.0909090909090908
+      "points_per_match": 1.0909090909090908
     }
   ]
 }

@@ -99,7 +99,7 @@ def main():
             "price",
             "form",
             "total_points",
-            "points_per_million",
+            "points_per_match",
             "goals_scored",
             "assists",
             "xG",
@@ -115,7 +115,7 @@ def main():
 
         st.dataframe(
             display_df.style.background_gradient(
-                subset=["total_points", "form", "points_per_million"], cmap="Greens"
+                subset=["total_points", "form", "points_per_match"], cmap="Greens"
             ),
             width="stretch",
             height=600,
@@ -133,7 +133,7 @@ def main():
                         "team_name",
                         "price",
                         "total_points",
-                        "points_per_million",
+                        "points_per_match",
                     ]
                 ],
                 width="stretch",
@@ -243,7 +243,7 @@ def main():
         ]
 
         st.dataframe(
-            comparison_df[available_compare_cols].set_index("web_name").T,
+            comparison_df[available_compare_cols].set_index("web_name").T.astype(str),
             width="stretch",
         )
 
@@ -258,7 +258,7 @@ def main():
                 "xG",
                 "xA",
                 "form",
-                "points_per_million",
+                "points_per_match",
             ],
         )
 

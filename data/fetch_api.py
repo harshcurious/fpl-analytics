@@ -147,7 +147,7 @@ class FPLAPIClient:
                 df[new_col] = default
 
         df["value"] = df["price"]
-        df["points_per_million"] = df["total_points"] / df["price"].replace(0, 1)
+        df["points_per_match"] = df["total_points"] / df["price"].replace(0, 1)
 
         if use_cache and self._cache:
             self._cache.set(

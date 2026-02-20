@@ -16,23 +16,16 @@ A comprehensive Fantasy Premier League analytics webapp built with Streamlit.
 ```bash
 cd fpl-analytics
 ```
-
-2. Create a virtual environment (recommended):
+2. Install dependencies and create the environment automatically:
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 ## Usage
 
 Run the Streamlit app:
 ```bash
-streamlit run app.py
+uv run streamlit run app.py
 ```
 
 The app will open in your browser at http://localhost:8501

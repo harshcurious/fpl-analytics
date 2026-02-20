@@ -103,10 +103,10 @@ def get_best_value_players(df: pd.DataFrame, min_minutes: int = 450) -> pd.DataF
 
     filtered = df[df["minutes"] >= min_minutes].copy()
 
-    if "points_per_million" in filtered.columns:
-        return filtered.nlargest(20, "points_per_million")
+    if "points_per_match" in filtered.columns:
+        return filtered.nlargest(20, "points_per_match")
 
-    filtered["points_per_million"] = filtered["total_points"] / filtered[
-        "price"
-    ].replace(0, 1)
-    return filtered.nlargest(20, "points_per_million")
+    filtered["points_per_match"] = filtered["total_points"] / filtered["price"].replace(
+        0, 1
+    )
+    return filtered.nlargest(20, "points_per_match")

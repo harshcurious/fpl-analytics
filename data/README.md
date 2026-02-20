@@ -15,7 +15,7 @@ The `FPLAPIClient` class is the main interface for interacting with the official
 
 **Key Methods:**
 
-- `get_players_df(use_cache=True)`: Returns a processed DataFrame of all players with stats, including calculated columns like `points_per_million`.
+- `get_players_df(use_cache=True)`: Returns a processed DataFrame of all players with stats, including calculated columns like `points_per_match`.
 - `get_teams_df(use_cache=True)`: Returns a DataFrame of all Premier League teams.
 - `get_gameweeks(use_cache=True)`: Returns a DataFrame of gameweek information (deadlines, current status).
 - `get_fixtures_with_fdr(team_id, num_gameweeks=5)`: Returns a DataFrame of upcoming fixtures for a specific team with Fixture Difficulty Ratings (FDR).
